@@ -1,12 +1,18 @@
-### Expected behavior
+#### Qubes OS version (e.g., `R3.1`):
 
-### Actual behavior
+#### Affected TemplateVMs (e.g., `fedora-23`, if applicable):
 
-### Steps to reproduce the behavior
+---
 
-----------
+### Expected behavior:
 
-#### Related issues
+### Actual behavior:
 
-#### Relevant labels
+### Steps to reproduce the behavior:
+
+---
+
+#### Related issues:
+
+#### Relevant labels:
 
