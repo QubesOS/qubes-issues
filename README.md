@@ -1,8 +1,7 @@
 Qubes Issues repository
 =======================
 
-The sole purpose of this repository is tracking issues. The only interesting
-content is in issues tab.
+This repository tracks issues and [feature development progress](https://github.com/QubesOS/qubes-issues/blob/master/features.md) for the Qubes OS Project.
 
 **[File a new issue](https://github.com/QubesOS/qubes-issues/issues/new)**
 
