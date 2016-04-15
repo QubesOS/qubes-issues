@@ -2,6 +2,7 @@
 
 #### Affected TemplateVMs (e.g., `fedora-23`, if applicable):
 
+
 ---
 
 ### Expected behavior:
@@ -10,9 +11,13 @@
 
 ### Steps to reproduce the behavior:
 
+### General notes:
+
+
 ---
 
 #### Related issues:
 
 #### Relevant labels:
+
 
