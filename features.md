@@ -38,7 +38,8 @@ This page tracks the progress of feature development for the Qubes OS Project.
 | [Instant DispVMs](https://github.com/QubesOS/qubes-issues/issues/1512) | [qubesuser] | [PoC](https://github.com/qubesuser/qubes-core-admin/tree/insta_dvm), [Waiting](https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166640065) | [2015-12-22](https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166716447) | -- |
 | [Separate `volatile.img`](https://github.com/QubesOS/qubes-issues/issues/1527) | [v6ak] | [PoC](https://groups.google.com/forum/#!topic/qubes-users/X0BBZ-kfix0) | [2015-12-19](https://groups.google.com/d/msg/qubes-users/X0BBZ-kfix0/UADwGKnlBwAJ) | [Discussion](https://groups.google.com/forum/#!topic/qubes-users/X0BBZ-kfix0) |
 
--------------------------
+Notes
+-----
 
 | Status Term | Meaning |
 |:------------|:--------|
@@ -47,6 +48,7 @@ This page tracks the progress of feature development for the Qubes OS Project.
 | PoC         | A proof-of-concept has been successfully created, but more work is required to integrate it with Qubes. |
 | Waiting     | Feature is partially complete, but is waiting on the completion of another component. |
 
+* **Last Update**: For in-progress features, this denotes the last *substantive* development progress update (not merely the last time there was activity on the issue or thread).
 
 
 [Joanna]: https://github.com/rootkovska
