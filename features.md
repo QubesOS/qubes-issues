@@ -38,6 +38,7 @@ This page tracks the progress of feature development for the Qubes OS Project.
 | [MAC Randomization for `iwlwifi`](https://github.com/QubesOS/qubes-issues/issues/938) | (none) | In progress | [2016-04-28](https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-215495520) | [Tails imlpementation](https://tails.boum.org/contribute/design/MAC_address/#index8h1) |
 | [Instant DispVMs](https://github.com/QubesOS/qubes-issues/issues/1512) | [qubesuser] | [PoC](https://github.com/qubesuser/qubes-core-admin/tree/insta_dvm), [Waiting](https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166640065) | [2015-12-22](https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166716447) | -- |
 | [Separate `volatile.img`](https://github.com/QubesOS/qubes-issues/issues/1527) | [v6ak] | [PoC](https://groups.google.com/forum/#!topic/qubes-users/X0BBZ-kfix0) | [2015-12-19](https://groups.google.com/d/msg/qubes-users/X0BBZ-kfix0/UADwGKnlBwAJ) | [Discussion](https://groups.google.com/forum/#!topic/qubes-users/X0BBZ-kfix0) |
+| [Salt formula distribution method](https://github.com/QubesOS/qubes-issues/issues/1939) | (none) | Planning | [2016-05-01](https://github.com/QubesOS/qubes-issues/issues/1939#issue-152069330) | [Salt management stack](https://github.com/QubesOS/qubes-issues/issues/1541) |
 
 
 Notes
