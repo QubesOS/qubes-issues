@@ -18,6 +18,4 @@
 
 #### Related issues:
 
-#### Relevant labels:
-
 
