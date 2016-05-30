@@ -21,5 +21,7 @@ Some reports
 | [Release 4.0](https://github.com/QubesOS/qubes-issues/issues?q=is:open milestone:"Release 4.0") | [critical](https://github.com/QubesOS/qubes-issues/issues?q=is:open milestone:"Release 4.0" label:"P: critical" -label:wontfix) |
 | [no milestone](https://github.com/QubesOS/qubes-issues/issues?q=is:open no:milestone) | [critical](https://github.com/QubesOS/qubes-issues/issues?q=is:open no:milestone label:"P: critical" -label:wontfix) |
 
+[Build status (Travis-CI)](travis_status.md)
+
 * [GitHub search syntax](https://help.github.com/articles/search-syntax/)
 * [GitHub search syntax related to issues](https://help.github.com/articles/searching-issues/)
