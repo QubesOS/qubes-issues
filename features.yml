@@ -1,0 +1,514 @@
+- name   : Qubes MIME handler
+  issue  : 441
+  devs   : 
+  status :
+    code   : In progress
+    url    : 
+  updated:
+    date   : 2015-03-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/441#issuecomment-77756725
+  info   :
+  - type   : Post
+    url    : http://theinvisiblethings.blogspot.com/2013/02/converting-untrusted-pdfs-into-trusted.html
+  - type   : Discussion
+    url    : https://groups.google.com/d/msgid/qubes-users/dc777e37-a4a2-4ea8-bb80-4b5fb5aceeac%40googlegroups.com
+
+- name   : Split GPG using GPG v2.1
+  issue  : 474
+  devs   : HW42
+  status :
+    code   : In progress
+    url    : 
+  updated:
+    date   : 2015-11-16
+    url    : https://github.com/QubesOS/qubes-issues/issues/474#issuecomment-156885755
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/d/msgid/qubes-devel/20150309013432.GA2361%40mail-itl
+  - type   : Prototype
+    url    : https://git.ipsumj.de/hw42/qubes/split-gpg2.git
+
+- name   : PV USB
+  issue  : 531
+  devs   : Marek, caschulz88
+  status :
+    code   : In progress
+    url    : 
+  updated:
+    date   : 2016-04-01
+    url    : https://github.com/QubesOS/qubes-issues/issues/531#ref-commit-046149e
+  info   :
+  - type   : USBIP over qrexec proxy
+    url    : https://github.com/QubesOS/qubes-app-linux-usb-proxy
+  - type   : 
+    url    : 
+
+- name   : IPv6 routing between VMs
+  issue  : 718
+  devs   : 
+  status :
+    code   : In progress
+    url    : 
+  updated:
+    date   : 2016-02-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/718#issuecomment-181585916
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Install AEM by default
+  issue  : 803
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-03-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/803#issue-60265574
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : qrexec-based network proxy
+  issue  : 806
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-03-25
+    url    : https://github.com/QubesOS/qubes-issues/issues/806
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Open multiple files one DispVM
+  issue  : 814
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-07-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/814#event-369272806
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Make qubes-builder deterministic
+  issue  : 816
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-09-26
+    url    : https://github.com/QubesOS/qubes-issues/issues/816#issuecomment-143494764
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/d/topic/qubes-devel/D2Ca4Ef-dh4/discussion
+  - type   : Eg 1
+    url    : https://wiki.debian.org/ReproducibleBuilds
+  - type   : Eg 2
+    url    : https://github.com/kholia/ReproducibleBuilds
+  - type   : Eg 3
+    url    : http://securityblog.redhat.com/2013/09/18/reproducible-builds-for-fedora/
+
+- name   : Reduce inter-VM covert channels
+  issue  : 817
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-04-11
+    url    : https://github.com/QubesOS/qubes-issues/issues/817#issue-60265645
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-users/AqZV65yZLuU
+  - type   : 
+    url    : 
+
+- name   : Logvm(s)
+  issue  : 830
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-04-25
+    url    : https://github.com/QubesOS/qubes-issues/issues/830#issue-60265831
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Shutdown/suspend inactive VMs
+  issue  : 832
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-12-03
+    url    : https://github.com/QubesOS/qubes-issues/issues/832#issuecomment-161634350
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : GUI/Admin domain splitting
+  issue  : 833
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-04-27
+    url    : https://github.com/QubesOS/qubes-issues/issues/833#issue-60265848
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Managament interface
+  issue  : 835
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-04-27
+    url    : https://github.com/QubesOS/qubes-issues/issues/835#issue-60265850
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Thunderbird Qubes extensions
+  issue  : 845
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-05-10
+    url    : https://github.com/QubesOS/qubes-issues/issues/845#issuecomment-77761894
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Qubes Admin API
+  issue  : 853
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-05-10
+    url    : https://github.com/QubesOS/qubes-issues/issues/853#issue-60266013
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/d/msg/qubes-devel/f2gDpXE3NJ8/_kH7LUrzJ80J
+  - type   : 
+    url    : 
+
+- name   : Incremental backups
+  issue  : 858
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-05-14
+    url    : https://github.com/QubesOS/qubes-issues/issues/858#issuecomment-77762096
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/d/msg/qubes-devel/Gcrb7KQVcMk/CK-saQU_1HYJ
+  - type   : 
+    url    : 
+
+- name   : Container tags/attributes
+  issue  : 865
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-06-02
+    url    : https://github.com/QubesOS/qubes-issues/issues/865#issue-60266120
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-devel/qzM5QRE8Ua8
+  - type   : 
+    url    : 
+
+- name   : Multiple DispVMs
+  issue  : 866
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-06-02
+    url    : https://github.com/QubesOS/qubes-issues/issues/866#issue-60266121
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-devel/uQJL7I70GQs
+  - type   : 
+    url    : 
+
+- name   : Centralized Qubes Policy
+  issue  : 867
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-06-02
+    url    : https://github.com/QubesOS/qubes-issues/issues/867#issue-60266123
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : OCSP proxy for firewallvm
+  issue  : 879
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-06-04
+    url    : https://github.com/QubesOS/qubes-issues/issues/879#issuecomment-108655591
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Protect against GUI "DoS" attacks
+  issue  : 881
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-09-26
+    url    : https://github.com/QubesOS/qubes-issues/issues/881#issuecomment-77762317
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Centralized Tray Notifications
+  issue  : 889
+  devs   : 
+  status :
+    code   : PoC
+    url    : https://groups.google.com/d/msg/qubes-devel/1Lzv9SQCzFc/4gKx06iKRD4J
+  updated:
+    date   : 2015-10-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/889#issuecomment-146660411
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : repomd.xml hash over https
+  issue  : 891
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-04-07
+    url    : https://github.com/QubesOS/qubes-issues/issues/891#issuecomment-90648284
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Persistent VM custom config
+  issue  : 895
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-03-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/895#issue-60266383
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : qubes-bugreport tool
+  issue  : 901
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2016-05-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/901#issuecomment-218914376
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-users/KUwfPI7Ma1Q
+  - type   : 
+    url    : 
+
+- name   : Anti-forensic DispVMs
+  issue  : 904
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2016-03-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/904#issuecomment-193953355
+  info   :
+  - type   : Separate `volatile.img` (#1527)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1527
+  - type   : 
+    url    : 
+
+- name   : Black Theme
+  issue  : 911
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-11-24
+    url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-159378308
+  info   :
+  - type   : 
+    url    : 
+  - type   : 
+    url    : 
+
+- name   : Cryptsetup "nuke" option
+  issue  : 921
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-12-02
+    url    : https://github.com/QubesOS/qubes-issues/issues/921#issuecomment-77762583
+  info   :
+  - type   : Cryptsetup FAQ
+    url    : https://github.com/mbroz/cryptsetup/blob/master/FAQ
+  - type   : 
+    url    : 
+
+- name   : qvm-copy destination option
+  issue  : 930
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2014-11-19
+    url    : https://github.com/QubesOS/qubes-issues/issues/930#issue-60266621
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-users/LBVQDhgHu7U
+  - type   : 
+    url    : 
+
+- name   : MAC Randomization for `iwlwifi`
+  issue  : 938
+  devs   : 
+  status :
+    code   : In progress
+    url    : 
+  updated:
+    date   : 2016-04-28
+    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-215495520
+  info   :
+  - type   : Tails implementation
+    url    : https://tails.boum.org/contribute/design/MAC_address/#index8h1
+  - type   : 
+    url    : 
+
+- name   : Qubes Screenshot Tool
+  issue  : 953
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-10-16
+    url    : https://github.com/QubesOS/qubes-issues/issues/953#issuecomment-148734874
+  info   :
+  - type   : qvm-copy-to-vm (#1324)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1324
+  - type   : 
+    url    : 
+
+- name   : Instant DispVMs
+  issue  : 1512
+  devs   : qubesuser
+  status :
+    code   : Waiting
+    url    : https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166640065
+  updated:
+    date   : 2015-12-22
+    url    : https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166716447
+  info   :
+  - type   : PoC
+    url    : https://github.com/qubesuser/qubes-core-admin/tree/insta_dvm
+  - type   : 
+    url    : 
+
+- name   : Separate `volatile.img`
+  issue  : 1527
+  devs   : v6ak
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2015-12-19
+    url    : https://groups.google.com/d/msg/qubes-users/X0BBZ-kfix0/UADwGKnlBwAJ
+  info   :
+  - type   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-users/X0BBZ-kfix0
+  - type   : 
+    url    : 
+
+- name   : Salt formula distribution method
+  issue  : 1939
+  devs   : 
+  status :
+    code   : 
+    url    : 
+  updated:
+    date   : 2016-05-01
+    url    : https://github.com/QubesOS/qubes-issues/issues/1939#issue-152069330
+  info   :
+  - type   : Salt management stack (#1541)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1541
+  - type   : 
+    url    : 
+
