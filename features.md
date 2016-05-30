@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Feature Development Progress
 permalink: /features/
 ---
