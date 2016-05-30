@@ -1,7 +1,7 @@
 Qubes Issues repository
 =======================
 
-This repository tracks issues and [feature development progress](https://github.com/QubesOS/qubes-issues/blob/master/features.md) for the Qubes OS Project.
+This repository tracks issues and feature development progress for the Qubes OS Project.
 
 **[File a new issue](https://github.com/QubesOS/qubes-issues/issues/new)**
 
