@@ -542,18 +542,18 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Provide (optional) helper menu to open clicked links in different VM
+  issue  : 1080
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-07-26
+    url    : https://github.com/QubesOS/qubes-issues/issues/1080#issuecomment-124994395
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Qubes MIME handlers (#441)
+    url    : https://github.com/QubesOS/qubes-issues/issues/441
   - desc   : 
     url    : 
 
