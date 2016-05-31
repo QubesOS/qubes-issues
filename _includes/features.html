@@ -1,0 +1,126 @@
+<style>
+table {
+  border-collapse: collapse;
+}
+td, th {
+  border-width: 1px;
+  border-style: solid;
+  padding: 5px;
+}
+tr:hover {
+  background-color: #f5f5f5;
+}
+td.planning {
+  background-color: #d1e0e0;
+}
+td.in-progress {
+  background-color: #ffff99;
+}
+td.poc {
+  background-color: #99d6ff;
+}
+td.waiting {
+  background-color: #e6b3b3;
+}
+</style>
+<table>
+  <thead>
+    <tr>
+      <th>Feature Name</th>
+      <th>Issue</th>
+      <th>Developer(s)</th>
+      <th>Status</th>
+      <th>Last Update</th>
+      <th>See Also</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for feature in site.data.features %}
+    <tr>
+      <td>
+        {{ feature.name }}
+      </td>
+      <td>
+        <a href="https://github.com/QubesOS/qubes-issues/issues/{{ feature.issue }}">{{ feature.issue }}</a>
+      </td>
+      <td>
+      {% if feature.devs %}
+        {{ feature.devs }}
+      {% else %}
+        (none)
+      {% endif %}
+      </td>
+      {% if feature.status.term == 'In progress' %}
+      <td class="in-progress">
+      {% elsif feature.status.term == 'PoC' %}
+      <td class="poc">
+      {% elsif feature.status.term == 'Waiting' %}
+      <td class="waiting">
+      {% else %}
+      <td class="planning">
+      {% endif %}
+      {% if feature.status.term %}
+        {% if feature.status.url %}
+          <a href="{{ feature.status.url }}">{{ feature.status.term }}</a>
+        {% else %}
+          {{ feature.status.term }}
+        {% endif %}
+      {% else %}
+        Planning
+      {% endif %}
+      </td>
+      <td>
+        <a href="{{ feature.updated.url }}">{{ feature.updated.date }}</a>
+      </td>
+      <td>
+      {% for info in feature.info %}
+        {% if info.desc %}
+          [<a href="{{ info.url }}">{{ info.desc }}</a>]
+        {% endif %}
+      {% endfor %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<hr>
+<h2>Notes</h2>
+<ul>
+  <li><b>Feature Name</b>: An informal name or description for the feature.</li>
+  <li><b>Current Developers</b>: "(none)" means that no developer is currently assigned
+  to this feature. Developers from the community are highly encouraged to claim
+  these features and work on them! (Even if a feature currently has developers
+  assigned to it, it's usually the case that help is still wanted.)</li>
+  <li><b>Status</b>: See the table below for the meaning of each status term.</li>
+  <li><b>Last Update</b>: For in-progress features, this denotes the last <em>substantive</em>
+  development progress update (not merely the last time there was activity on
+  the issue or thread).</li>
+  <li><b>See Also</b>: Related discussions, PoCs, or other links.</li>
+</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Status Term</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="planning">Planning</td>
+      <td>Feature is being discussed to determine scope and goals; development has not yet begun.</td>
+    </tr>
+    <tr>
+      <td class="in-progress">In progress</td>
+      <td>Feature is currently being developed.</td>
+    </tr>
+    <tr>
+      <td class="poc">PoC</td>
+      <td>A proof-of-concept has been successfully created, but more work is required to integrate it with Qubes.</td>
+    </tr>
+    <tr>
+      <td class="waiting">Waiting</td>
+      <td>Feature is partially complete, but is waiting on the completion of another component.</td>
+    </tr>
+  </tbody>
+</table>
+
