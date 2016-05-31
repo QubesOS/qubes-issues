@@ -722,15 +722,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Improve audio/video sync
+  issue  : 1322
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-10-16
+    url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-148817465
   info   :
   - desc   : 
     url    : 
