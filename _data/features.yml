@@ -842,15 +842,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Design a way to pass some configuration to integration tests
+  issue  : 1489
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-12-07
+    url    : https://github.com/QubesOS/qubes-issues/issues/1489#issuecomment-162526148
   info   :
   - desc   : 
     url    : 
