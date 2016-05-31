@@ -19,13 +19,21 @@
         <a href="https://github.com/QubesOS/qubes-issues/issues/{{ feature.issue }}">{{ feature.issue }}</a>
       </td>
       <td>
-      {% if feature.devs%}
+      {% if feature.devs %}
         {{ feature.devs }}
       {% else %}
         (none)
       {% endif %}
       </td>
-      <td>
+      {% if feature.status.term == 'In progress' %}
+      <td class="in-progress">
+      {% elsif feature.status.term == 'PoC' %}
+      <td class="poc">
+      {% elsif feature.status.term == 'Waiting' %}
+      <td class="waiting">
+      {% else %}
+      <td class="planning">
+      {% endif %}
       {% if feature.status.term %}
         {% if feature.status.url %}
           <a href="{{ feature.status.url }}">{{ feature.status.term }}</a>
