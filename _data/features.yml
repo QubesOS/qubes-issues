@@ -1127,18 +1127,18 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Graphically separate system-oriented vm from other appvm in qubes-manager
+  issue  : 1853
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-03-18
+    url    : https://github.com/QubesOS/qubes-issues/issues/1853#issue-141881740
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Implement a more intuitive Qubes Manager (#1870)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1870
   - desc   : 
     url    : 
 
