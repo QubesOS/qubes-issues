@@ -482,18 +482,18 @@
   - desc   : [Anti-forensic DispVMs (#904)]
     url    : https://github.com/QubesOS/qubes-issues/issues/904
 
-- name   : 
-  issue  : 
+- name   : Ability to automatically attach some drives to PVMs
+  issue  : 992
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-05-07
+    url    : https://github.com/QubesOS/qubes-issues/issues/992#issue-73944176
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-users/vPUlrNNX3vc
   - desc   : 
     url    : 
 
