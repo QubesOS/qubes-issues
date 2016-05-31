@@ -827,15 +827,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Make libvirt notice network device disconnection when backend domain is shut down
+  issue  : 1426
+  devs   : Marek
   status :
-    code   : 
+    code   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-11-14
+    url    : https://github.com/QubesOS/qubes-issues/issues/1426#ref-commit-83e73b4
   info   :
   - desc   : 
     url    : 
