@@ -617,15 +617,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Glamor XShmPutImage is extremely slow
+  issue  : 1133
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-08-29
+    url    : https://github.com/QubesOS/qubes-issues/issues/1133#issuecomment-136018983
   info   :
   - desc   : 
     url    : 
