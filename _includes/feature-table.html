@@ -41,8 +41,8 @@
       </td>
       <td>
       {% for info in feature.info %}
-        {% if info.type %}
-          [<a href="{{ info.url }}">{{ info.type }}</a>]
+        {% if info.desc %}
+          [<a href="{{ info.url }}">{{ info.desc }}</a>]
         {% endif %}
       {% endfor %}
       </td>
