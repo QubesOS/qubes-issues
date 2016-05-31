@@ -1007,15 +1007,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Research support for libreboot/coreboot-based systems
+  issue  : 1594
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-04-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/1594#issuecomment-209213917
   info   :
   - desc   : 
     url    : 
