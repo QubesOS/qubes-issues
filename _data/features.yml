@@ -1022,15 +1022,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Implement qrexec service for installing template images
+  issue  : 1705
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-29
+    url    : https://github.com/QubesOS/qubes-issues/issues/1705#issue-129799505
   info   :
   - desc   : 
     url    : 
