@@ -1232,15 +1232,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Option to use AEM secret as LUKS keyfile
+  issue  : 1979
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-05-10
+    url    : https://github.com/QubesOS/qubes-issues/issues/1979#issue-154137141
   info   :
   - desc   : 
     url    : 
