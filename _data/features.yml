@@ -602,18 +602,18 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : DispVM should be non-networked by default (or optionally)
+  issue  : 1121
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-08-26
+    url    : https://github.com/QubesOS/qubes-issues/issues/1121#issuecomment-135157416
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Options to set `dispvm_netvm` to 'none' for all VMs and as default (#1988)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1988
   - desc   : 
     url    : 
 
