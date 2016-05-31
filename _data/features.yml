@@ -632,15 +632,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Improve displayed apps and default VMs
+  issue  : 1139
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-08-25
+    url    : https://github.com/QubesOS/qubes-issues/issues/1139#issuecomment-134802299
   info   :
   - desc   : 
     url    : 
