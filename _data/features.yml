@@ -1067,18 +1067,18 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Improve user notification of template & admin vm updates
+  issue  : 1760
+  devs   : Brennan
   status :
-    term   : 
+    term   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-03-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/1760#issuecomment-193790735
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Implement a more intuitive Qubes Manager (#1870)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1870
   - desc   : 
     url    : 
 
