@@ -677,18 +677,18 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Allow DispVMs to inherit netvm without inheriting firewall rules
+  issue  : 1296
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-10-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/1296#issuecomment-146563664
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Support for multiple DispVMs (#866)
+    url    : https://github.com/QubesOS/qubes-issues/issues/866
   - desc   : 
     url    : 
 
