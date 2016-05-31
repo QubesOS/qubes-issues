@@ -947,15 +947,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Consider support for different cursor shapes
+  issue  : 1551
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-05-28
+    url    : https://github.com/QubesOS/qubes-issues/issues/1551#issuecomment-222337797
   info   :
   - desc   : 
     url    : 
