@@ -827,15 +827,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Optional static IP addresses
+  issue  : 1477
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-05-18
+    url    : https://github.com/QubesOS/qubes-issues/issues/1477#issuecomment-220242600
   info   :
   - desc   : 
     url    : 
