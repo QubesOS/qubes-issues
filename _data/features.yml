@@ -662,15 +662,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Create deterministic Debian source packages
+  issue  : 1244
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-29
+    url    : https://github.com/QubesOS/qubes-issues/issues/1244#issuecomment-176698555
   info   :
   - desc   : 
     url    : 
