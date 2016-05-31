@@ -1037,15 +1037,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Make it easier to install new qrexec policy
+  issue  : 1706
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-29
+    url    : https://github.com/QubesOS/qubes-issues/issues/1706#issue-129801822
   info   :
   - desc   : 
     url    : 
