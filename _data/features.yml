@@ -1097,15 +1097,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Storage Subsystem Design R4
+  issue  : 1842
+  devs   : Bahtiar, Marek
   status :
-    term   : 
+    term   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-05-21
+    url    : https://github.com/QubesOS/qubes-issues/issues/1842#issuecomment-220783182
   info   :
   - desc   : 
     url    : 
