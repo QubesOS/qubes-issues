@@ -1262,15 +1262,15 @@
   - desc   : libxen dependencies (#1974)
     url    : https://github.com/QubesOS/qubes-issues/issues/1974
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Fedora 24 template
+  issue  : 1986
+  devs   : Marek
   status :
-    term   : 
+    term   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-05-24
+    url    : https://github.com/QubesOS/qubes-issues/issues/1986#ref-commit-3500f72
   info   :
   - desc   : 
     url    : 
