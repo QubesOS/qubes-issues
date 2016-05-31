@@ -962,15 +962,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Wipe RAM on Shutdown
+  issue  : 1562
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-02-27
+    url    : https://github.com/QubesOS/qubes-issues/issues/1562#issuecomment-189797871
   info   :
   - desc   : 
     url    : 
