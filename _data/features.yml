@@ -557,15 +557,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Handle unexpected USB block device removal
+  issue  : 1082
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-07-23
+    url    : https://github.com/QubesOS/qubes-issues/issues/1082#issue-96930164
   info   :
   - desc   : 
     url    : 
