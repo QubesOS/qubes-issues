@@ -782,15 +782,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Keep hidden service mirror up-to-date
+  issue  : 1352
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-04-24
+    url    : https://github.com/QubesOS/qubes-issues/issues/1352#issuecomment-213910111
   info   :
   - desc   : 
     url    : 
