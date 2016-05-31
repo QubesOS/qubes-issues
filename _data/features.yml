@@ -767,15 +767,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Home folder of template not inherited by DispVM
+  issue  : 1335
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-12-25
+    url    : https://github.com/QubesOS/qubes-issues/issues/1335#issuecomment-167268375
   info   :
   - desc   : 
     url    : 
