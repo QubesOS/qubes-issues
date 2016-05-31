@@ -782,21 +782,6 @@
   - desc   : 
     url    : 
 
-- name   : Keep hidden service mirror up-to-date
-  issue  : 1352
-  devs   : 
-  status :
-    code   : Planning
-    url    : 
-  updated:
-    date   : 2016-04-24
-    url    : https://github.com/QubesOS/qubes-issues/issues/1352#issuecomment-213910111
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
-
 - name   : Consider removing dom0 from a VM list in Qubes Manager
   issue  : 1382
   devs   : 
