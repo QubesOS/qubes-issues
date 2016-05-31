@@ -1112,15 +1112,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Generic qubes qrexec rpc '.d' "/etc/qubes-rpc.d" drop-in folder
+  issue  : 1844
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-03-21
+    url    : https://github.com/QubesOS/qubes-issues/issues/1844#issuecomment-199240465
   info   :
   - desc   : 
     url    : 
