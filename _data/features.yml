@@ -1172,15 +1172,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Add field for VM Icon
+  issue  : 1873
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-03-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/1873#issuecomment-203519546
   info   :
   - desc   : 
     url    : 
