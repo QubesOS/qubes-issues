@@ -692,15 +692,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Create qrexec dracut module
+  issue  : 1310
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-06
+    url    : https://github.com/QubesOS/qubes-issues/issues/1310#issuecomment-169506997
   info   :
   - desc   : 
     url    : 
