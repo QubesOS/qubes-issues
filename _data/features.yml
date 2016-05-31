@@ -992,15 +992,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : PulseAudio doesn't need to run in dom0
+  issue  : 1590
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-09
+    url    : https://github.com/QubesOS/qubes-issues/issues/1590#issuecomment-170241605
   info   :
   - desc   : 
     url    : 
