@@ -497,15 +497,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Minimal state AppVMs
+  issue  : 1006
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-05-22
+    url    : https://github.com/QubesOS/qubes-issues/issues/1006#issuecomment-104760005
   info   :
   - desc   : 
     url    : 
