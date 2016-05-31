@@ -977,15 +977,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Improve code structure of qmemman
+  issue  : 1587
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-05
+    url    : https://github.com/QubesOS/qubes-issues/issues/1587#issue-125089719
   info   :
   - desc   : 
     url    : 
