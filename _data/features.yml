@@ -572,21 +572,6 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
-  status :
-    term   : 
-    url    : 
-  updated:
-    date   : 
-    url    : 
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
-
 - name   : Major UX pain points
   issue  : 1117
   devs   : Brennan
