@@ -797,15 +797,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Consider removing dom0 from a VM list in Qubes Manager
+  issue  : 1382
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-02-27
+    url    : https://github.com/QubesOS/qubes-issues/issues/1382#issuecomment-189763611
   info   :
   - desc   : 
     url    : 
