@@ -917,15 +917,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Transparent SSH SOCKS proxy for Qubes
+  issue  : 1536
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-02-26
+    url    : https://github.com/QubesOS/qubes-issues/issues/1536#issuecomment-189247282
   info   :
   - desc   : 
     url    : 
