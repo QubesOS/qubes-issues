@@ -812,15 +812,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Integrated turorials
+  issue  : 1395
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-11-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/1395#issue-115806786
   info   :
   - desc   : 
     url    : 
