@@ -26,11 +26,11 @@
       {% endif %}
       </td>
       <td>
-      {% if feature.status.code %}
+      {% if feature.status.term %}
         {% if feature.status.url %}
-          <a href="{{ feature.status.url }}">{{ feature.status.code }}</a>
+          <a href="{{ feature.status.url }}">{{ feature.status.term }}</a>
         {% else %}
-          {{ feature.status.code }}
+          {{ feature.status.term }}
         {% endif %}
       {% else %}
         Planning

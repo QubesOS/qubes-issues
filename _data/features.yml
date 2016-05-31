@@ -2,7 +2,7 @@
   issue  : 441
   devs   : 
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2015-03-08
@@ -17,7 +17,7 @@
   issue  : 474
   devs   : HW42
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2015-11-16
@@ -32,7 +32,7 @@
   issue  : 531
   devs   : Marek, caschulz88
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2016-04-01
@@ -47,7 +47,7 @@
   issue  : 718
   devs   : 
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2016-02-08
@@ -62,7 +62,7 @@
   issue  : 803
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-03-12
@@ -77,7 +77,7 @@
   issue  : 806
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-03-25
@@ -92,7 +92,7 @@
   issue  : 814
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-07-30
@@ -107,7 +107,7 @@
   issue  : 816
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-09-26
@@ -126,7 +126,7 @@
   issue  : 817
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-04-11
@@ -141,7 +141,7 @@
   issue  : 830
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-04-25
@@ -156,7 +156,7 @@
   issue  : 832
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-12-03
@@ -171,7 +171,7 @@
   issue  : 833
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-04-27
@@ -186,7 +186,7 @@
   issue  : 835
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-04-27
@@ -201,7 +201,7 @@
   issue  : 845
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-05-10
@@ -216,7 +216,7 @@
   issue  : 853
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-05-10
@@ -231,7 +231,7 @@
   issue  : 858
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-05-14
@@ -246,7 +246,7 @@
   issue  : 865
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-06-02
@@ -261,7 +261,7 @@
   issue  : 866
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-06-02
@@ -276,7 +276,7 @@
   issue  : 867
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-06-02
@@ -291,7 +291,7 @@
   issue  : 879
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-06-04
@@ -306,7 +306,7 @@
   issue  : 881
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-09-26
@@ -321,7 +321,7 @@
   issue  : 889
   devs   : 
   status :
-    code   : PoC
+    term   : PoC
     url    : https://groups.google.com/d/msg/qubes-devel/1Lzv9SQCzFc/4gKx06iKRD4J
   updated:
     date   : 2015-10-08
@@ -336,7 +336,7 @@
   issue  : 891
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-04-07
@@ -351,7 +351,7 @@
   issue  : 895
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-03-08
@@ -366,7 +366,7 @@
   issue  : 901
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2016-05-12
@@ -381,7 +381,7 @@
   issue  : 904
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2016-03-08
@@ -396,7 +396,7 @@
   issue  : 911
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-11-24
@@ -411,7 +411,7 @@
   issue  : 921
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-12-02
@@ -426,7 +426,7 @@
   issue  : 930
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2014-11-19
@@ -441,7 +441,7 @@
   issue  : 938
   devs   : 
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2016-04-28
@@ -456,7 +456,7 @@
   issue  : 953
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-10-16
@@ -471,7 +471,7 @@
   issue  : 977
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-06-05
@@ -486,7 +486,7 @@
   issue  : 992
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-05-07
@@ -501,7 +501,7 @@
   issue  : 1006
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-05-22
@@ -516,7 +516,7 @@
   issue  : 1045
   devs   : Rafał
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2015-07-06
@@ -531,7 +531,7 @@
   issue  : 1054
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2016-01-19
@@ -546,7 +546,7 @@
   issue  : 1080
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-07-26
@@ -561,7 +561,7 @@
   issue  : 1082
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-07-23
@@ -576,7 +576,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -591,7 +591,7 @@
   issue  : 1117
   devs   : Brennan
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2016-04-30
@@ -606,7 +606,7 @@
   issue  : 1121
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-08-26
@@ -621,7 +621,7 @@
   issue  : 1133
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-08-29
@@ -636,7 +636,7 @@
   issue  : 1139
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-08-25
@@ -651,7 +651,7 @@
   issue  : 1143
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-08-31
@@ -666,7 +666,7 @@
   issue  : 1244
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2016-01-29
@@ -681,7 +681,7 @@
   issue  : 1296
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-10-08
@@ -696,7 +696,7 @@
   issue  : 1310
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2016-01-06
@@ -711,7 +711,7 @@
   issue  : 1312
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-10-09
@@ -726,7 +726,7 @@
   issue  : 1322
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-10-16
@@ -741,7 +741,7 @@
   issue  : 1323
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-10-11
@@ -756,7 +756,7 @@
   issue  : 1324
   devs   : Marek
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2015-11-10
@@ -771,7 +771,7 @@
   issue  : 1335
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-12-25
@@ -786,7 +786,7 @@
   issue  : 1382
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2016-02-27
@@ -801,7 +801,7 @@
   issue  : 1395
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-11-08
@@ -816,7 +816,7 @@
   issue  : 1426
   devs   : Marek
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2015-11-14
@@ -831,7 +831,7 @@
   issue  : 1477
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2016-05-18
@@ -846,7 +846,7 @@
   issue  : 1489
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-12-07
@@ -861,7 +861,7 @@
   issue  : 1507
   devs   : 
   status :
-    code   : In progress
+    term   : In progress
     url    : 
   updated:
     date   : 2016-03-26
@@ -876,7 +876,7 @@
   issue  : 1508
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2015-12-11
@@ -891,7 +891,7 @@
   issue  : 1512
   devs   : qubesuser
   status :
-    code   : Waiting
+    term   : Waiting
     url    : https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166640065
   updated:
     date   : 2015-12-22
@@ -906,7 +906,7 @@
   issue  : 1527
   devs   : v6ak
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2015-12-19
@@ -921,7 +921,7 @@
   issue  : 1536
   devs   : 
   status :
-    code   : Planning
+    term   : Planning
     url    : 
   updated:
     date   : 2016-02-26
@@ -936,7 +936,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -951,7 +951,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -966,7 +966,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -981,7 +981,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -996,7 +996,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1011,7 +1011,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1026,7 +1026,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1041,7 +1041,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1056,7 +1056,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1071,7 +1071,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1086,7 +1086,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1101,7 +1101,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1116,7 +1116,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1131,7 +1131,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1146,7 +1146,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1161,7 +1161,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1176,7 +1176,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1191,7 +1191,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1206,7 +1206,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1221,7 +1221,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1236,7 +1236,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1251,7 +1251,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1266,7 +1266,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1281,7 +1281,7 @@
   issue  : 
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 
@@ -1296,7 +1296,7 @@
   issue  : 1939
   devs   : 
   status :
-    code   : 
+    term   : 
     url    : 
   updated:
     date   : 2016-05-01
