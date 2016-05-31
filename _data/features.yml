@@ -872,15 +872,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Build proper src.rpm packages
+  issue  : 1508
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-12-11
+    url    : https://github.com/QubesOS/qubes-issues/issues/1508#issue-121723169
   info   :
   - desc   : 
     url    : 
