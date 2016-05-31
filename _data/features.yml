@@ -587,15 +587,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Major UX pain points
+  issue  : 1117
+  devs   : Brennan
   status :
-    code   : 
+    code   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-04-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/1117#issue-100753402
   info   :
   - desc   : 
     url    : 
