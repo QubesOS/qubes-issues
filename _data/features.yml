@@ -737,14 +737,14 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Mechanism to hide Qubes VM Manager 'Firewall rules' tab
+  issue  : 1323
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
+    date   : 2015-10-11
     url    : 
   info   :
   - desc   : 
