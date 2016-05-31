@@ -527,15 +527,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Add support for mounting exFAT partitions by default
+  issue  : 1054
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-01-19
+    url    : https://github.com/QubesOS/qubes-issues/issues/1054#issuecomment-172952118
   info   :
   - desc   : 
     url    : 
