@@ -512,15 +512,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Improve Windows gui agent performance
+  issue  : 1045
+  devs   : Rafał
   status :
-    code   : 
+    code   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-07-06
+    url    : https://github.com/QubesOS/qubes-issues/issues/1045#issue-93293851
   info   :
   - desc   : 
     url    : 
