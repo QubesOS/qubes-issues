@@ -752,15 +752,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Provide an easy command line tool for copying between vm and dom0
+  issue  : 1324
+  devs   : Marek
   status :
-    code   : 
+    code   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-11-10
+    url    : https://github.com/QubesOS/qubes-issues/issues/1324#issuecomment-155655636
   info   :
   - desc   : 
     url    : 
