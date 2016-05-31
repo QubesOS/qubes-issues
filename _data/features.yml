@@ -1052,15 +1052,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Install PV Grub related packages by default
+  issue  : 1738
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-02-11
+    url    : https://github.com/QubesOS/qubes-issues/issues/1738#issuecomment-182893740
   info   :
   - desc   : 
     url    : 
