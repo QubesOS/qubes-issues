@@ -707,15 +707,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Modify meminfo-writer to provide qmemman just one number - used memory
+  issue  : 1312
   devs   : 
   status :
-    code   : 
+    code   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2015-10-09
+    url    : https://github.com/QubesOS/qubes-issues/issues/1312#issue-110744681
   info   :
   - desc   : 
     url    : 
