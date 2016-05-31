@@ -1187,15 +1187,15 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
+- name   : Package security-misc from Whonix to Qubes
+  issue  : 1885
   devs   : 
   status :
-    term   : 
+    term   : Planning
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-03-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/1885#issuecomment-203636629
   info   :
   - desc   : 
     url    : 
