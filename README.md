@@ -7,6 +7,8 @@ This repository tracks issues and feature development progress for the Qubes OS 
 
 [Go to Qubes issues](https://github.com/QubesOS/qubes-issues/issues).
 
+**[Qubes OS Feature Development Tracker](https://www.qubes-os.org/qubes-issues/)**
+
 Some reports
 ------------
 
