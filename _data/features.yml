@@ -1247,20 +1247,20 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Create missing Debian packages
+  issue  : 1984
+  devs   : Marek
   status :
-    term   : 
+    term   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-05-17
+    url    : https://github.com/QubesOS/qubes-issues/issues/1984#ref-commit-44b0741
   info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
+  - desc   : usb-proxy
+    url    : https://github.com/QubesOS/qubes-app-linux-usb-proxy
+  - desc   : libxen dependencies (#1974)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1974
 
 - name   : 
   issue  : 
