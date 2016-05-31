@@ -1082,18 +1082,18 @@
   - desc   : 
     url    : 
 
-- name   : 
-  issue  : 
-  devs   : 
+- name   : Implement new firewall dom0->VM interface
+  issue  : 1815
+  devs   : Marek, Wojtek
   status :
-    term   : 
+    term   : In progress
     url    : 
   updated:
-    date   : 
-    url    : 
+    date   : 2016-03-21
+    url    : https://github.com/QubesOS/qubes-issues/issues/1815#ref-commit-3b1238f
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Discussion
+    url    : https://groups.google.com/d/msgid/qubes-devel/20160114163808.GW4892%40mail-itl
   - desc   : 
     url    : 
 
