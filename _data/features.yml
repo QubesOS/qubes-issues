@@ -876,7 +876,7 @@
   issue  : 1512
   devs   : qubesuser
   status :
-    term   : Waiting
+    term   : Blocked
     url    : https://github.com/QubesOS/qubes-issues/issues/1512#issuecomment-166640065
   updated:
     date   : 2015-12-22
