@@ -27,6 +27,8 @@
       </td>
       {% if feature.status.term == 'In progress' %}
       <td class="in-progress">
+      {% elsif feature.status.term == 'On hold' %}
+      <td class="on-hold">
       {% elsif feature.status.term == 'PoC' %}
       <td class="poc">
       {% elsif feature.status.term == 'Waiting' %}
@@ -87,6 +89,10 @@
     <tr>
       <td class="in-progress">In progress</td>
       <td>Feature is currently being developed.</td>
+    </tr>
+    <tr>
+      <td class="on-hold">On hold</td>
+      <td>Development is on hold.</td>
     </tr>
     <tr>
       <td class="poc">PoC</td>
