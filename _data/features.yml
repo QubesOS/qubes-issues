@@ -1277,3 +1277,18 @@
   - desc   : 
     url    : 
 
+- name   : Tails-like functionality in Qubes
+  issue  : 2024
+  devs   : 
+  status :
+    term   : Planning
+    url    : 
+  updated:
+    date   : 2016-06-01
+    url    : https://github.com/QubesOS/qubes-issues/issues/2024#issuecomment-223027698
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
