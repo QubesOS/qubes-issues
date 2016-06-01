@@ -31,8 +31,8 @@
       <td class="on-hold">
       {% elsif feature.status.term == 'PoC' %}
       <td class="poc">
-      {% elsif feature.status.term == 'Waiting' %}
-      <td class="waiting">
+      {% elsif feature.status.term == 'Blocked' %}
+      <td class="blocked">
       {% else %}
       <td class="planning">
       {% endif %}
