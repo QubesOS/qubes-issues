@@ -1129,13 +1129,13 @@
 
 - name   : Implement a more intuitive Qubes Manager
   issue  : 1870
-  devs   : Brennan
+  devs   : 
   status :
     term   : In progress
     url    : 
   updated:
-    date   : 2016-05-30
-    url    : https://github.com/QubesOS/qubes-issues/issues/1870#issuecomment-222517690
+    date   : 2016-06-02
+    url    : https://github.com/QubesOS/qubes-issues/issues/1870#issuecomment-223264933
   info   :
   - desc   : 
     url    : 
