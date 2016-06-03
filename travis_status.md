@@ -11,7 +11,6 @@ Most recent, development version (aka "master")
 | core-admin | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-admin.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-core-admin) | 
 | core-admin-linux | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-admin-linux.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-core-admin-linux) | 
 | core-agent-linux | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-agent-linux.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-core-agent-linux) | 
-| linux-kernel | [![Build Status](https://travis-ci.org/QubesOS/qubes-linux-kernel.svg?branch=stable-4.4)](https://travis-ci.org/QubesOS/qubes-linux-kernel) |
 | artwork | [![Build Status](https://travis-ci.org/QubesOS/qubes-artwork.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-artwork) | 
 | gui-common | [![Build Status](https://travis-ci.org/QubesOS/qubes-gui-common.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-gui-common) | 
 | gui-daemon | [![Build Status](https://travis-ci.org/QubesOS/qubes-gui-daemon.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-gui-daemon) | 
