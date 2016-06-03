@@ -242,21 +242,6 @@
   - desc   : 
     url    : 
 
-- name   : Multiple DispVMs
-  issue  : 866
-  devs   : 
-  status :
-    term   : 
-    url    : 
-  updated:
-    date   : 2014-06-02
-    url    : https://github.com/QubesOS/qubes-issues/issues/866#issue-60266121
-  info   :
-  - desc   : Discussion
-    url    : https://groups.google.com/forum/#!topic/qubes-devel/uQJL7I70GQs
-  - desc   : 
-    url    : 
-
 - name   : Centralized Qubes Policy
   issue  : 867
   devs   : 
