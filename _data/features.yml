@@ -1187,6 +1187,21 @@
   - desc   : 
     url    : 
 
+- name   : Split SSH
+  issue  : 1962
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-05-05
+    url    : https://github.com/QubesOS/qubes-issues/issues/1962#issuecomment-217183158
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Option to use AEM secret as LUKS keyfile
   issue  : 1979
   devs   : 
