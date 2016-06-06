@@ -1174,13 +1174,13 @@
 
 - name   : Cache updates
   issue  : 1957
-  devs   : 
+  devs   : Rustybird
   status :
-    term   : Planning
-    url    : 
+    term   : PoC
+    url    : https://github.com/rustybird/qubes-updates-cache
   updated:
-    date   : 2016-05-11
-    url    : https://github.com/QubesOS/qubes-issues/issues/1957#issuecomment-218631911
+    date   : 2016-06-06
+    url    : https://github.com/QubesOS/qubes-issues/issues/1957#issuecomment-224106890
   info   :
   - desc   : 
     url    : 
