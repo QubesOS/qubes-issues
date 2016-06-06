@@ -25,7 +25,9 @@
         (none)
       {% endif %}
       </td>
-      {% if feature.status.term == 'In progress' %}
+      {% if feature.status.term == 'Help wanted' %}
+      <td class="help-wanted">
+      {% elsif feature.status.term == 'In progress' %}
       <td class="in-progress">
       {% elsif feature.status.term == 'On hold' %}
       <td class="on-hold">
@@ -85,6 +87,10 @@
     <tr>
       <td class="planning">Planning</td>
       <td>Feature is being discussed to determine scope and goals; development has not yet begun.</td>
+    </tr>
+    <tr>
+      <td class="help-wanted">Help wanted</td>
+      <td>The core developers cannot implement this feature (e.g., due to lack of time). We seek help from the community.</td>
     </tr>
     <tr>
       <td class="in-progress">In progress</td>
