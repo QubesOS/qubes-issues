@@ -921,16 +921,18 @@
   issue  : 1562
   devs   : 
   status :
-    term   : Planning
+    term   : Help wanted
     url    : 
   updated:
     date   : 2016-02-27
     url    : https://github.com/QubesOS/qubes-issues/issues/1562#issuecomment-189797871
   info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
+  - desc   : Tails package
+    url    : http://git.tails.boum.org/wiperam/tree/
+  - desc   : "#904"
+    url    : https://github.com/QubesOS/qubes-issues/issues/904
+  - desc   : "#1563"
+    url    : https://github.com/QubesOS/qubes-issues/issues/1563
 
 - name   : Wipe Video RAM on Shutdown
   issue  : 1563
