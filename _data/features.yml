@@ -876,11 +876,11 @@
   issue  : 1527
   devs   : v6ak
   status :
-    term   : 
-    url    : 
+    term   : PoC
+    url    : https://gist.github.com/v6ak/d5d49375d59cfae8e455
   updated:
-    date   : 2015-12-19
-    url    : https://groups.google.com/d/msg/qubes-users/X0BBZ-kfix0/UADwGKnlBwAJ
+    date   : 2016-04-23
+    url    : https://github.com/QubesOS/qubes-issues/issues/1527#issuecomment-213757235
   info   :
   - desc   : Discussion
     url    : https://groups.google.com/forum/#!topic/qubes-users/X0BBZ-kfix0
