@@ -782,6 +782,21 @@
   - desc   : 
     url    : 
 
+- name   : needrestart reports 'Failed to retrieve available kernel versions.'
+  issue  : 1442
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2015-11-20
+    url    : https://github.com/QubesOS/qubes-issues/issues/1442#issuecomment-158498836
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Improve Nautilus file manager defaults
   issue  : 1448
   devs   : 
