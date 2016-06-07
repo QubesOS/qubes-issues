@@ -12,5 +12,5 @@ It is hosted from the [qubes-issues] repository.
 
 {% include features.html %}
 
-[qubes-issues]: https://github.com/QubesOS/qubes-issues
+[qubes-issues]: https://github.com/QubesOS/qubes-issues/tree/gh-pages
 
