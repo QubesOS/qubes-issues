@@ -782,6 +782,21 @@
   - desc   : 
     url    : 
 
+- name   : "Backup: Option to automatically verify backup file upon creation"
+  issue  : 1454
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2015-11-25
+    url    : https://github.com/QubesOS/qubes-issues/issues/1454#issue-118801776
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Optional static IP addresses
   issue  : 1477
   devs   : 
