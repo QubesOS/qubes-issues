@@ -1127,6 +1127,21 @@
   - desc   : 
     url    : 
 
+- name   : Use correct subvolume for root fs
+  issue  : 1871
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-03-23
+    url    : https://github.com/QubesOS/qubes-issues/issues/1871#issue-143103701
+  info   :
+  - desc   : Message
+    url    : https://groups.google.com/d/msgid/qubes-users/5a062df9-81a4-4cc9-b156-13e01580335a%40googlegroups.com
+  - desc   : 
+    url    : 
+
 - name   : Add field for VM Icon
   issue  : 1873
   devs   : 
