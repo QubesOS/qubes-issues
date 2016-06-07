@@ -812,6 +812,21 @@
   - desc   : 
     url    : 
 
+- name   : Qubes Manager - Restart button and multi-select
+  issue  : 1499
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2015-12-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/1499#issue-121128222
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Make Fedora template image smaller
   issue  : 1507
   devs   : 
