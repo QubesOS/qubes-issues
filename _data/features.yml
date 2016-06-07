@@ -1157,6 +1157,21 @@
   - desc   : 
     url    : 
 
+- name   : Debian in dom0
+  issue  : 1919
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-05-18
+    url    : https://github.com/QubesOS/qubes-issues/issues/1919#issuecomment-220202965
+  info   :
+  - desc   : Fedora 22+ in dom0 (#1807)
+    url    : https://github.com/QubesOS/qubes-issues/issues/1807
+  - desc   : 
+    url    : 
+
 - name   : Salt formula distribution method
   issue  : 1939
   devs   : 
