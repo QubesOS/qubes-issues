@@ -1037,6 +1037,21 @@
   - desc   : 
     url    : 
 
+- name   : KDE5 decoration plugin
+  issue  : 1784
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-03-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/1760#issuecomment-193790735
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Add support for GNOME in dom0/GUI domain
   issue  : 1806
   devs   : 
