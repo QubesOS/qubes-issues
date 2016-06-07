@@ -782,6 +782,21 @@
   - desc   : 
     url    : 
 
+- name   : Improve usability of manipulating various VMs disk sizes
+  issue  : 1441
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-01-06
+    url    : https://github.com/QubesOS/qubes-issues/issues/1441#issuecomment-169498850
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : needrestart reports 'Failed to retrieve available kernel versions.'
   issue  : 1442
   devs   : 
