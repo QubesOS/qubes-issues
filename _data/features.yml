@@ -932,6 +932,23 @@
   - desc   : 
     url    : 
 
+- name   : Wipe Video RAM on Shutdown
+  issue  : 1563
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-02-27
+    url    : https://github.com/QubesOS/qubes-issues/issues/1562#issuecomment-189797871
+  info   :
+  - desc   : "Riseup #5356"
+    url    : https://labs.riseup.net/code/issues/5356
+  - desc   : "#904"
+    url    : https://github.com/QubesOS/qubes-issues/issues/904
+  - desc   : "#1562"
+    url    : https://github.com/QubesOS/qubes-issues/issues/1562
+
 - name   : loginctl lock-sessions doesn't work
   issue  : 1580
   devs   : 
