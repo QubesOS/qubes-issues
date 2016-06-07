@@ -1037,6 +1037,21 @@
   - desc   : 
     url    : 
 
+- name   : Add support for GNOME in dom0/GUI domain
+  issue  : 1806
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-05-17
+    url    : https://github.com/QubesOS/qubes-issues/issues/1806#issuecomment-219823569
+  info   :
+  - desc   : Thread
+    url    : https://groups.google.com/d/msg/qubes-devel/cberCRs_nFE/reNS1BKOBwAJ
+  - desc   : 
+    url    : 
+
 - name   : Implement new firewall dom0->VM interface
   issue  : 1815
   devs   : Marek, Wojtek
