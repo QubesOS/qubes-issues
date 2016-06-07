@@ -1037,6 +1037,21 @@
   - desc   : 
     url    : 
 
+- name   : "Windows7 HVM: Cannot Mount or Attach USB Devices"
+  issue  : 1783
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-05-08
+    url    : https://github.com/QubesOS/qubes-issues/issues/1783#issuecomment-217113900
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : KDE5 decoration plugin
   issue  : 1784
   devs   : 
