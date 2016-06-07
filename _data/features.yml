@@ -932,6 +932,21 @@
   - desc   : 
     url    : 
 
+- name   : loginctl lock-sessions doesn't work
+  issue  : 1580
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-01-04
+    url    : https://github.com/QubesOS/qubes-issues/issues/1580#issue-124813586
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Improve code structure of qmemman
   issue  : 1587
   devs   : 
