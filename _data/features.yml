@@ -437,6 +437,21 @@
   - desc   : 
     url    : 
 
+- name   : Improve qvm-backup key derivation/management
+  issue  : 971
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2015-06-07
+    url    : https://github.com/QubesOS/qubes-issues/issues/971#issuecomment-224171422
+  info   :
+  - desc   : Discussion
+    url    : https://groups.google.com/d/msg/qubes-devel/CZ7WRwLXcnk/u_rZPoVxL5IJ
+  - desc   : 
+    url    : 
+
 - name   : Use random encryption key for swap partition
   issue  : 977
   devs   : 
@@ -447,9 +462,9 @@
     date   : 2015-06-05
     url    : https://github.com/QubesOS/qubes-issues/issues/977#issuecomment-109480388
   info   :
-  - desc   : [Script to convert swap]
+  - desc   : Script to convert swap
     url    : https://gist.github.com/rustybird/917ac2560fe4e9541d1f
-  - desc   : [Anti-forensic DispVMs (#904)]
+  - desc   : Anti-forensic DispVMs (#904)
     url    : https://github.com/QubesOS/qubes-issues/issues/904
 
 - name   : Ability to automatically attach some drives to PVMs
