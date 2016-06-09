@@ -20,7 +20,7 @@
   issue  : 474
   devs   : HW42
   status :
-    term   : [PoC]
+    term   : PoC
     url    : https://git.ipsumj.de/hw42/qubes/split-gpg2.git
   updated:
     date   : 2016-06-09
