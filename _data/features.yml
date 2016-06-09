@@ -1551,3 +1551,18 @@
   - desc   : 
     url    : 
 
+- name   : Consider relaxing installation medium validation check to accommodate Windows
+  issue  : 2051
+  devs   : 
+  status :
+    term   : Planning
+    url    : 
+  updated:
+    date   : 2016-06-06
+    url    : https://github.com/QubesOS/qubes-issues/issues/2051#issue-158798569
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
