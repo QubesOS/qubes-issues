@@ -1,17 +1,20 @@
 - name   : Qubes MIME handlers
   issue  : 441
-  devs   : 
+  devs   : kulinacs
   status :
-    term   : In progress
+    term   : Help wanted
     url    : 
   updated:
-    date   : 2015-03-08
-    url    : https://github.com/QubesOS/qubes-issues/issues/441#issuecomment-77756725
+    date   : 2016-04-23
+    url    : https://github.com/QubesOS/qubes-issues/issues/441#issuecomment-213821718
   info   :
+  - desc   : Partial PoC
+    url    : https://github.com/kulinacs/qubes-desktop
   - desc   : Post
     url    : http://theinvisiblethings.blogspot.com/2013/02/converting-untrusted-pdfs-into-trusted.html
   - desc   : Discussion
     url    : https://groups.google.com/d/msgid/qubes-users/dc777e37-a4a2-4ea8-bb80-4b5fb5aceeac%40googlegroups.com
+
 
 - name   : Split GPG using GPG v2.1
   issue  : 474
