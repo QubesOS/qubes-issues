@@ -1566,3 +1566,18 @@
   - desc   : 
     url    : 
 
+- name   : Split GPG support for EasyPG
+  issue  : 2057
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-06-09
+    url    : https://github.com/QubesOS/qubes-issues/issues/2057#issuecomment-225016270
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
