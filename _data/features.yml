@@ -335,21 +335,6 @@
   - desc   : 
     url    : 
 
-- name   : qubes-bugreport tool
-  issue  : 901
-  devs   : 
-  status :
-    term   : 
-    url    : 
-  updated:
-    date   : 2016-05-12
-    url    : https://github.com/QubesOS/qubes-issues/issues/901#issuecomment-218914376
-  info   :
-  - desc   : Discussion
-    url    : https://groups.google.com/forum/#!topic/qubes-users/KUwfPI7Ma1Q
-  - desc   : 
-    url    : 
-
 - name   : Anti-forensic DispVMs
   issue  : 904
   devs   : 
