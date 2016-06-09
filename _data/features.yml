@@ -219,16 +219,16 @@
   issue  : 858
   devs   : 
   status :
-    term   : 
+    term   : Help wanted
     url    : 
   updated:
     date   : 2014-05-14
     url    : https://github.com/QubesOS/qubes-issues/issues/858#issuecomment-77762096
   info   :
   - desc   : Discussion
-    url    : https://groups.google.com/d/msg/qubes-devel/Gcrb7KQVcMk/CK-saQU_1HYJ
-  - desc   : 
-    url    : 
+    url    : https://groups.google.com/d/topic/qubes-devel/Gcrb7KQVcMk/discussion
+  - desc   : Discussion
+    url    : https://groups.google.com/d/topic/qubes-users/oWtnR_cAFUw/discussion
 
 - name   : Container tags/attributes
   issue  : 865
