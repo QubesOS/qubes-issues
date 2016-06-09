@@ -20,16 +20,16 @@
   issue  : 474
   devs   : HW42
   status :
-    term   : In progress
-    url    : 
+    term   : [PoC]
+    url    : https://git.ipsumj.de/hw42/qubes/split-gpg2.git
   updated:
-    date   : 2015-11-16
-    url    : https://github.com/QubesOS/qubes-issues/issues/474#issuecomment-156885755
+    date   : 2016-06-09
+    url    : https://github.com/QubesOS/qubes-issues/issues/474#issuecomment-224526962
   info   :
   - desc   : Discussion
     url    : https://groups.google.com/d/msgid/qubes-devel/20150309013432.GA2361%40mail-itl
-  - desc   : Prototype
-    url    : https://git.ipsumj.de/hw42/qubes/split-gpg2.git
+  - desc   : 
+    url    : 
 
 - name   : IPv6 routing between VMs
   issue  : 718
