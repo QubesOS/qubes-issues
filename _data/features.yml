@@ -339,7 +339,7 @@
   issue  : 904
   devs   : 
   status :
-    term   : 
+    term   : Help wanted
     url    : 
   updated:
     date   : 2016-03-08
@@ -347,8 +347,8 @@
   info   :
   - desc   : Separate `volatile.img` (#1527)
     url    : https://github.com/QubesOS/qubes-issues/issues/1527
-  - desc   : 
-    url    : 
+  - desc   : Discussion
+    url    : https://groups.google.com/d/topic/qubes-users/X0BBZ-kfix0/discussion
 
 - name   : Black Theme
   issue  : 911
