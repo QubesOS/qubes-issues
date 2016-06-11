@@ -414,11 +414,11 @@
   issue  : 953
   devs   : 
   status :
-    term   : 
+    term   : Help wanted
     url    : 
   updated:
-    date   : 2015-10-16
-    url    : https://github.com/QubesOS/qubes-issues/issues/953#issuecomment-148734874
+    date   : 2016-06-11
+    url    : https://github.com/QubesOS/qubes-issues/issues/953#issuecomment-225362013
   info   :
   - desc   : qvm-copy-to-vm (#1324)
     url    : https://github.com/QubesOS/qubes-issues/issues/1324
