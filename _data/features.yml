@@ -755,6 +755,21 @@
   - desc   : 
     url    : 
 
+- name   : "libvirt.libvirtError: internal error: Unable to reset PCI device..."
+  issue  : 1393
+  devs   : 
+  status :
+    term   : Help wanted
+    url    : 
+  updated:
+    date   : 2016-06-10
+    url    : https://github.com/QubesOS/qubes-issues/issues/1393#issuecomment-225244965
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Integrated turorials
   issue  : 1395
   devs   : 
