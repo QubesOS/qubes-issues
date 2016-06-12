@@ -122,10 +122,10 @@
 
 - name   : Improve audio/video sync
   issue  : 1322
-  devs   : 
+  devs   : qubesuser
   status :
-    term   : Planning
-    url    : 
+    term   : Question
+    url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-225446914
   updated:
     date   : 2015-10-16
     url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-148817465
