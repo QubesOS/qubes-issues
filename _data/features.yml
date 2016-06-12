@@ -77,10 +77,10 @@
 
 - name   : Glamor XShmPutImage is extremely slow
   issue  : 1133
-  devs   : 
+  devs   : qubesuser
   status :
-    term   : Planning
-    url    : 
+    term   : Question
+    url    : https://github.com/QubesOS/qubes-issues/issues/1133#issuecomment-225446563
   updated:
     date   : 2015-08-29
     url    : https://github.com/QubesOS/qubes-issues/issues/1133#issuecomment-136018983
