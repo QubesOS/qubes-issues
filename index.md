@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Qubes OS Feature Development Tracker
-description: This page tracks the progress of feature development for the Qubes OS Project.
+title: Qubes OS Community-Developed Feature Tracker
+description: Tracks the progress of features developed by the Qubes community.
 ---
 
-Qubes OS Feature Development Tracker
-====================================
+Qubes OS Community-Developed Feature Tracker
+============================================
 
-This page tracks the progress of feature development for the Qubes OS Project.
-It is hosted from the [qubes-issues] repository.
+This page tracks the progress of Qubes OS features under development by members
+of the community. It is hosted from the [qubes-issues] repository.
 
 {% include features.html %}
 
