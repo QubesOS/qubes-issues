@@ -212,9 +212,9 @@
 
 - name   : Debian in dom0
   issue  : 1919
-  devs   : 
+  devs   : unman
   status :
-    term   : Help wanted
+    term   : In progress
     url    : 
   updated:
     date   : 2016-05-18
