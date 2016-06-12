@@ -64,11 +64,11 @@
   issue  : 938
   devs   : 
   status :
-    term   : In progress
-    url    : 
+    term   : Question
+    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-225446455
   updated:
-    date   : 2016-04-28
-    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-215495520
+    date   : 2016-05-10
+    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-218327854
   info   :
   - desc   : Tails implementation
     url    : https://tails.boum.org/contribute/design/MAC_address/#index8h1
