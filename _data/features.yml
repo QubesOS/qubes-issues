@@ -47,13 +47,13 @@
 
 - name   : Black Theme
   issue  : 911
-  devs   : 
+  devs   : Jeeppler
   status :
-    term   : 
-    url    : 
+    term   : Question
+    url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-225049460
   updated:
-    date   : 2015-11-24
-    url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-159378308
+    date   : 2016-06-09
+    url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-225049460
   info   :
   - desc   : 
     url    : 
