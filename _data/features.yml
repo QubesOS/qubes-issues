@@ -167,10 +167,10 @@
 
 - name   : Transparent SSH SOCKS proxy for Qubes
   issue  : 1536
-  devs   : 
+  devs   : Zrubi
   status :
-    term   : Help wanted
-    url    : 
+    term   : Question
+    url    : https://github.com/QubesOS/qubes-issues/issues/1536#issuecomment-225447120
   updated:
     date   : 2016-02-26
     url    : https://github.com/QubesOS/qubes-issues/issues/1536#issuecomment-189247282
