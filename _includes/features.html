@@ -25,18 +25,20 @@
         (none)
       {% endif %}
       </td>
-      {% if feature.status.term == 'Help wanted' %}
-      <td class="help-wanted">
+      {% if feature.status.term == 'Planning' %}
+      <td class="planning">
+      {% elsif feature.status.term == 'Partial' %}
+      <td class="partial">
       {% elsif feature.status.term == 'In progress' %}
       <td class="in-progress">
-      {% elsif feature.status.term == 'On hold' %}
-      <td class="on-hold">
       {% elsif feature.status.term == 'PoC' %}
       <td class="poc">
       {% elsif feature.status.term == 'Blocked' %}
       <td class="blocked">
+      {% elsif feature.status.term == 'Question' %}
+      <td class="question">
       {% else %}
-      <td class="planning">
+      <td class="TBD">
       {% endif %}
       {% if feature.status.term %}
         {% if feature.status.url %}
@@ -86,15 +88,15 @@
   <tbody>
     <tr>
       <td class="planning">Planning</td>
-      <td>Feature is being discussed to determine scope and goals; development has not yet begun.</td>
+      <td>Feature is being discussed to determine scope and goals. Development has not yet begun.</td>
+    </tr>
+    <tr>
+      <td class="partial">Partial</td>
+      <td>Feature is partially complete but is not under active development.</td>
     </tr>
     <tr>
       <td class="in-progress">In progress</td>
-      <td>Feature is currently being developed.</td>
-    </tr>
-    <tr>
-      <td class="on-hold">On hold</td>
-      <td>Development is on hold.</td>
+      <td>Feature is currently under development.</td>
     </tr>
     <tr>
       <td class="poc">PoC</td>
@@ -102,7 +104,11 @@
     </tr>
     <tr>
       <td class="blocked">Blocked</td>
-      <td>Feature is partially complete, but development is currently not able to continue.</td>
+      <td>Development is blocked.</td>
+    </tr>
+    <tr>
+      <td class="question">Question</td>
+      <td>In order to determine the status of this feature, one or more questions need to be answered first. The question has been asked, and we are waiting to receive an answer.</td>
     </tr>
   </tbody>
 </table>
