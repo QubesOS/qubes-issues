@@ -182,13 +182,13 @@
 
 - name   : KDE5 decoration plugin
   issue  : 1784
-  devs   : 
+  devs   : jgriffiths, Marek
   status :
-    term   : Help wanted
+    term   : In progress
     url    : 
   updated:
-    date   : 2016-03-08
-    url    : https://github.com/QubesOS/qubes-issues/issues/1760#issuecomment-193790735
+    date   : 2016-05-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/1784#issuecomment-222539460
   info   :
   - desc   : 
     url    : 
