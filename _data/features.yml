@@ -242,7 +242,7 @@
 
 - name   : Create missing Debian packages
   issue  : 1984
-  devs   : Marek
+  devs   : unman, Marek
   status :
     term   : In progress
     url    : 
