@@ -8,9 +8,7 @@ Qubes OS Community-Developed Feature Tracker
 ============================================
 
 This page tracks the progress of Qubes OS features under development by members
-of the community. It is hosted from the [qubes-issues] repository.
+of the community.
 
 {% include features.html %}
-
-[qubes-issues]: https://github.com/QubesOS/qubes-issues/tree/gh-pages
 
