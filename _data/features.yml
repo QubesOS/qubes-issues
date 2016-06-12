@@ -107,9 +107,9 @@
 
 - name   : Create deterministic Debian source packages
   issue  : 1244
-  devs   : 
+  devs   : nrgaway
   status :
-    term   : Planning
+    term   : In progress
     url    : 
   updated:
     date   : 2016-01-29
