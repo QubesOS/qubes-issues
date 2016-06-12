@@ -94,11 +94,11 @@
   issue  : 1143
   devs   : qubesuser
   status :
-    term   : Question
-    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-225446769
+    term   : PoC
+    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-136124719
   updated:
-    date   : 2015-08-31
-    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-136290955
+    date   : 2016-06-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-225450501
   info   :
   - desc   : 
     url    : 
