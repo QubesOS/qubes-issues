@@ -125,10 +125,10 @@
   devs   : qubesuser
   status :
     term   : Question
-    url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-225446914
+    url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-225450562
   updated:
-    date   : 2015-10-16
-    url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-148817465
+    date   : 2016-06-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/1322#issuecomment-225450562
   info   :
   - desc   : 
     url    : 
