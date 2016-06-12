@@ -62,13 +62,13 @@
 
 - name   : MAC Randomization for `iwlwifi`
   issue  : 938
-  devs   : 
+  devs   : ttasket
   status :
-    term   : Question
-    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-225446455
+    term   : In progress
+    url    : 
   updated:
-    date   : 2016-05-10
-    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-218327854
+    date   : 2016-06-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-225447816
   info   :
   - desc   : Tails implementation
     url    : https://tails.boum.org/contribute/design/MAC_address/#index8h1
