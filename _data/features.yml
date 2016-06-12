@@ -92,10 +92,10 @@
 
 - name   : Stop leaking 10.137.x.x addresses to VMs
   issue  : 1143
-  devs   : 
+  devs   : qubesuser
   status :
-    term   : Planning
-    url    : 
+    term   : Question
+    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-225446769
   updated:
     date   : 2015-08-31
     url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-136290955
