@@ -15,7 +15,6 @@
   - desc   : Discussion
     url    : https://groups.google.com/d/msgid/qubes-users/dc777e37-a4a2-4ea8-bb80-4b5fb5aceeac%40googlegroups.com
 
-
 - name   : Split GPG using GPG v2.1
   issue  : 474
   devs   : HW42
@@ -35,16 +34,16 @@
   issue  : 889
   devs   : v6ak
   status :
-    term   : PoC
-    url    : https://groups.google.com/d/msg/qubes-devel/1Lzv9SQCzFc/4gKx06iKRD4J
+    term   : Partial
+    url    : 
   updated:
-    date   : 2015-10-08
-    url    : https://github.com/QubesOS/qubes-issues/issues/889#issuecomment-146660411
+    date   : 2016-06-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/889#issuecomment-225447245
   info   :
   - desc   : Discussion
     url    : https://groups.google.com/d/topic/qubes-devel/1Lzv9SQCzFc/discussion
-  - desc   : 
-    url    : 
+  - desc   : PoC
+    url    : https://groups.google.com/d/msg/qubes-devel/1Lzv9SQCzFc/4gKx06iKRD4J
 
 - name   : Black Theme
   issue  : 911
