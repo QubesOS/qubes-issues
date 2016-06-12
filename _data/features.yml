@@ -270,3 +270,18 @@
   - desc   : 
     url    : 
 
+- name   : qubes-dom0-update template reinstallation option
+  issue  : 2061
+  devs   : ttasket, adrelanos
+  status :
+    term   : In progress
+    url    : 
+  updated:
+    date   : 2016-06-12
+    url    : https://github.com/QubesOS/qubes-issues/issues/2061#issuecomment-225446006
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
