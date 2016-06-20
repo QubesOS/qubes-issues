@@ -64,16 +64,16 @@
   issue  : 938
   devs   : ttasket
   status :
-    term   : In progress
-    url    : 
-  updated:
-    date   : 2016-06-12
+    term   : Blocked
     url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-225447816
+  updated:
+    date   : 2016-06-18
+    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-226938517
   info   :
   - desc   : Tails implementation
     url    : https://tails.boum.org/contribute/design/MAC_address/#index8h1
-  - desc   : 
-    url    : 
+  - desc   : Conversation with NM devs
+    url    : https://mail.gnome.org/archives/networkmanager-list/2016-April/msg00084.html
 
 - name   : Glamor XShmPutImage is extremely slow
   issue  : 1133
