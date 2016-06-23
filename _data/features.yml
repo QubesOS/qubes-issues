@@ -67,13 +67,15 @@
     term   : Blocked
     url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-225447816
   updated:
-    date   : 2016-06-18
-    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-226938517
+    date   : 2016-06-23
+    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-228040143
   info   :
   - desc   : Tails implementation
     url    : https://tails.boum.org/contribute/design/MAC_address/#index8h1
   - desc   : Conversation with NM devs
     url    : https://mail.gnome.org/archives/networkmanager-list/2016-April/msg00084.html
+  - desc   : Upstream NM patch
+    url    : https://bugzilla.gnome.org/show_bug.cgi?id=705545
 
 - name   : Glamor XShmPutImage is extremely slow
   issue  : 1133
