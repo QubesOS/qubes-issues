@@ -257,17 +257,3 @@
   - desc   : 
     url    : 
 
-- name   : Easy way to check if VM is running
-  issue  : 2103
-  devs   : ttasket
-  status :
-    term   : In progress
-    url    : 
-  updated:
-    date   : 2016-06-21
-    url    : https://github.com/QubesOS/qubes-issues/issues/2103#issuecomment-227549577
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
