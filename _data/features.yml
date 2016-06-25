@@ -257,3 +257,18 @@
   - desc   : 
     url    : 
 
+- name   : Qubes-corridor-Gateway (a Tor traffic whitelisting gateway)
+  issue  : 2108
+  devs   : Rustybird
+  status :
+    term   : In progress
+    url    : 
+  updated:
+    date   : 2016-06-24
+    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-228379491
+  info   :
+  - desc   : Corridor
+    url    : https://github.com/rustybird/corridor
+  - desc   : 
+    url    : 
+
