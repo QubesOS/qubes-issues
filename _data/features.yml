@@ -47,16 +47,16 @@
 
 - name   : Black Theme
   issue  : 911
-  devs   : Jeeppler
+  devs   : Jeeppler, ttasket
   status :
     term   : Question
     url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-225049460
   updated:
-    date   : 2016-06-16
-    url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-226614710
+    date   : 2016-07-01
+    url    : https://github.com/QubesOS/qubes-issues/issues/911#issuecomment-230078787
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Qubes manager meter/graph background fix
+    url    : https://github.com/QubesOS/qubes-manager/compare/master...ttasket:patch-1
   - desc   : 
     url    : 
 
