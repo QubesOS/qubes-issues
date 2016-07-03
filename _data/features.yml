@@ -77,6 +77,21 @@
   - desc   : Upstream NM patch
     url    : https://bugzilla.gnome.org/show_bug.cgi?id=705545
 
+- name   : Qubes Screenshot Tool
+  issue  : 953
+  devs   : Eva Dogstar
+  status :
+    term   : PoC
+    url    : https://github.com/evadogstar/qvm-screenshot-tool
+  updated:
+    date   : 2016-07-02
+    url    : https://groups.google.com/d/msgid/qubes-users/ea0a9918-8956-4cdf-a10a-cf2baf8db628%40googlegroups.com
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Glamor XShmPutImage is extremely slow
   issue  : 1133
   devs   : qubesuser
