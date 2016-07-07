@@ -1,3 +1,20 @@
+- name   : Set dom0 wallpaper service
+  issue  : 215
+  devs   : Eva Dogstar
+  status :
+    term   : In progress
+    url    : 
+  updated:
+    date   : 2016-07-06
+    url    : https://github.com/QubesOS/qubes-issues/issues/215#issuecomment-230934388
+  info   :
+  - desc   : Partial PoC
+    url    : https://github.com/evadogstar/qvm-wallpaper-tool/
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Qubes MIME handlers
   issue  : 441
   devs   : kulinacs
