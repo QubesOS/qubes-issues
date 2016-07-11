@@ -274,21 +274,6 @@
   - desc   : 
     url    : 
 
-- name   : Package i3 window manager
-  issue  : 2015
-  devs   : SietsevanderMolen, minad, Marek
-  status :
-    term   : PoC
-    url    : https://github.com/QubesOS/qubes-desktop-linux-i3/pull/1#issuecomment-221389141
-  updated:
-    date   : 2016-07-05
-    url    : https://github.com/QubesOS/qubes-issues/issues/2015#issuecomment-230442995
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
-
 - name   : Qubes-corridor-Gateway (a Tor traffic whitelisting gateway)
   issue  : 2108
   devs   : Rustybird
