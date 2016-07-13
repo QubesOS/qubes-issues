@@ -278,11 +278,11 @@
   issue  : 2108
   devs   : Rustybird
   status :
-    term   : Blocked
-    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-232078248
+    term   : PoC
+    url    : https://github.com/rustybird/corridor#qubes
   updated:
-    date   : 2016-07-12
-    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-232078248
+    date   : 2016-07-13
+    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-232413744
   info   :
   - desc   : Corridor
     url    : https://github.com/rustybird/corridor
