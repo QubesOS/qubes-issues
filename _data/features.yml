@@ -279,10 +279,10 @@
   devs   : Rustybird
   status :
     term   : PoC
-    url    : https://github.com/rustybird/corridor#qubes
+    url    : https://www.whonix.org/wiki/Corridor
   updated:
-    date   : 2016-07-13
-    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-232413744
+    date   : 2016-07-18
+    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-233486880
   info   :
   - desc   : Corridor
     url    : https://github.com/rustybird/corridor
