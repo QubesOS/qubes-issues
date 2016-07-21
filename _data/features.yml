@@ -276,7 +276,7 @@
 
 - name   : Qubes-corridor-Gateway (a Tor traffic whitelisting gateway)
   issue  : 2108
-  devs   : Rustybird
+  devs   : Rustybird, Patrick Schleizer
   status :
     term   : PoC
     url    : https://www.whonix.org/wiki/Corridor
