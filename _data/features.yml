@@ -274,18 +274,3 @@
   - desc   : 
     url    : 
 
-- name   : Qubes-corridor-Gateway (a Tor traffic whitelisting gateway)
-  issue  : 2108
-  devs   : Rustybird, Patrick Schleizer
-  status :
-    term   : PoC
-    url    : https://www.whonix.org/wiki/Corridor
-  updated:
-    date   : 2016-07-18
-    url    : https://github.com/QubesOS/qubes-issues/issues/2108#issuecomment-233486880
-  info   :
-  - desc   : Corridor
-    url    : https://github.com/rustybird/corridor
-  - desc   : Whonix page
-    url    : https://www.whonix.org/wiki/Corridor
-
