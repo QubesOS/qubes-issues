@@ -203,11 +203,11 @@
   issue  : 1784
   devs   : jgriffiths, Marek
   status :
-    term   : In progress
+    term   : Partial
     url    : 
   updated:
-    date   : 2016-05-30
-    url    : https://github.com/QubesOS/qubes-issues/issues/1784#issuecomment-222539460
+    date   : 2016-07-31
+    url    : https://github.com/QubesOS/qubes-issues/issues/1784#issuecomment-236403803
   info   :
   - desc   : 
     url    : 
