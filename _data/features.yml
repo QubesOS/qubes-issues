@@ -259,3 +259,18 @@
   - desc   : 
     url    : 
 
+- name   : Append-only build log
+  issue  : 2251
+  devs   : HW42
+  status :
+    term   : PoC
+    url    : https://13754266818915104063.googlegroups.com/attach/5794c2db0ce3c/0001-add-tools-for-append-only-build-logs.patch?part=0.1&view=1&vt=ANaJVrHOx9BvtI1hGei8mvvxhjd0RqMPjh7rRjh5W9YJ74Yo7IpbWunCNy5niTknOc-SQ8ny2HfC40Wzlz9Sg1J94DcujOpIyKGq8g3WfxlPUGs3YHp1EW4
+  updated:
+    date   : 2016-08-15
+    url    : https://groups.google.com/d/msgid/qubes-devel/491be700-6772-5db6-4b7f-1571df969e9f%40ipsumj.de
+  info   :
+  - desc   : Proposal
+    url    : https://www.qubes-os.org/news/2016/05/30/build-security/#proposal-for-true-append-only-build-process-logging
+  - desc   : 
+    url    : 
+
