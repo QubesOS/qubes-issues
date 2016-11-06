@@ -109,21 +109,6 @@
   - desc   : 
     url    : 
 
-- name   : Stop leaking 10.137.x.x addresses to VMs
-  issue  : 1143
-  devs   : qubesuser
-  status :
-    term   : PoC
-    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-136124719
-  updated:
-    date   : 2016-06-12
-    url    : https://github.com/QubesOS/qubes-issues/issues/1143#issuecomment-225450501
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
-
 - name   : Create deterministic Debian source packages
   issue  : 1244
   devs   : nrgaway
