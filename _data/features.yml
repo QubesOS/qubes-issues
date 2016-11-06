@@ -22,8 +22,8 @@
     term   : Partial
     url    : 
   updated:
-    date   : 2016-04-23
-    url    : https://github.com/QubesOS/qubes-issues/issues/441#issuecomment-213821718
+    date   : 2016-10-14
+    url    : https://github.com/QubesOS/qubes-issues/issues/441#issuecomment-253933220
   info   :
   - desc   : Partial PoC
     url    : https://github.com/kulinacs/qubes-desktop
