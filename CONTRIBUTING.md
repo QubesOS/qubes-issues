@@ -3,7 +3,7 @@ Creating a Qubes OS Issue
 
 Thank you for contributing to the Qubes OS project! Before you create a new
 issue, please take a moment to check whether your issue has already been
-created.
+created and whether it is appropriate here.
 
  * Search through the existing [Qubes issues] by typing your key words in the
    **Filters** box. (Tip: Make sure you're searching both open *and closed*
@@ -13,9 +13,10 @@ created.
    interfaces for both [qubes-users] and [qubes-devel].
 
  * Please note that `qubes-issues` is not intended for personal, localized
-   troubleshooting questions. Those questions are more likely to be answered in
-   [qubes-users], which receives much more traffic. The answers will also be
-   more likely to help others in the future!
+   troubleshooting questions, such as problems with a specific laptop model.
+   Those questions are more likely to be answered in [qubes-users], which
+   receives much more traffic. The answers will also be more likely to help
+   others in the future!
 
 
 [Qubes issues]: https://github.com/QubesOS/qubes-issues/issues
