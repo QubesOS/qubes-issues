@@ -1,18 +1,20 @@
 Qubes Issues repository
 =======================
 
-This repository tracks issues and feature development progress for the Qubes OS Project.
+This repository tracks issues and feature development progress for the [Qubes OS
+Project](https://www.qubes-os.org/).
 
-**[File a new issue](https://github.com/QubesOS/qubes-issues/issues/new)**
+* [File a new issue](https://github.com/QubesOS/qubes-issues/issues/new)
+  * [How to report bugs](https://www.qubes-os.org/doc/reporting-bugs/)
+  * [How to contribute code](https://www.qubes-os.org/doc/contributing/#contributing-code)
+* [View all Qubes issues](https://github.com/QubesOS/qubes-issues/issues)
+* [Community-Developed Feature Tracker](https://www.qubes-os.org/qubes-issues/)
 
-[Go to Qubes issues](https://github.com/QubesOS/qubes-issues/issues).
 
-**[Qubes OS Feature Development Tracker](https://www.qubes-os.org/qubes-issues/)**
+Notable issues
+--------------
 
-Some reports
-------------
-
-* [open unassigned](https://github.com/QubesOS/qubes-issues/issues?q=is:open no:milestone no:assignee) (neither to human nor milestone)
+[Open and unassigned ](https://github.com/QubesOS/qubes-issues/issues?q=is:open no:milestone no:assignee) (neither to human nor milestone)
 
 | release | critical | pending backports |
 |---------|----------|-------------------|
