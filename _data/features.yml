@@ -259,3 +259,18 @@
   - desc   : 
     url    : 
 
+- name   : qubes-split-browser
+  issue  : 2469
+  devs   : Rustybird
+  status :
+    term   : PoC
+    url    : https://github.com/rustybird/qubes-split-browser
+  updated:
+    date   : 2016-11-30
+    url    : https://groups.google.com/d/msg/qubes-users/SEWwjHj4Byk/Ajt_ccEHDAAJ
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
