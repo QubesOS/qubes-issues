@@ -1,4 +1,4 @@
-#### Qubes OS version (e.g., `R3.1`):
+#### Qubes OS version (e.g., `R3.2`):
 
 #### Affected TemplateVMs (e.g., `fedora-23`, if applicable):
 
