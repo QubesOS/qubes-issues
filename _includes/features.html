@@ -11,9 +11,9 @@
   </thead>
   <tbody>
   {% for feature in site.data.features %}
-    <tr>
-      <td>
-        {{ feature.name }}
+    <tr id="{{ feature.name | slugify }}">
+      <td href="#{{ feature.name | slugify }}">
+        <a href="#{{ feature.name | slugify }}" class="plain">{{ feature.name }}</a>
       </td>
       <td>
         <a href="https://github.com/QubesOS/qubes-issues/issues/{{ feature.issue }}">{{ feature.issue }}</a>
