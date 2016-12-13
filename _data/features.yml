@@ -274,3 +274,18 @@
   - desc   : 
     url    : 
 
+- name   : USG keyboard hardware proxy
+  issue  : 2518
+  devs   : Robert Fisk
+  status :
+    term   : In progress
+    url    : https://groups.google.com/d/msgid/qubes-users/1fe8b1eb-4de2-ca63-c91f-4b5d3387bfeb%40fastmail.fm
+  updated:
+    date   : 2016-12-10
+    url    : https://groups.google.com/d/msgid/qubes-users/1fe8b1eb-4de2-ca63-c91f-4b5d3387bfeb%40fastmail.fm
+  info   :
+  - desc   : USG v1.0
+    url    : https://github.com/robertfisk/USG
+  - desc   : 
+    url    : 
+
