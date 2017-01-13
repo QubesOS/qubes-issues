@@ -62,6 +62,21 @@
   - desc   : PoC
     url    : https://groups.google.com/d/msg/qubes-devel/1Lzv9SQCzFc/4gKx06iKRD4J
 
+- name   : Ask for RPC target in dom0
+  issue  : 910
+  devs   : boring-stuff
+  status :
+    term   : In progress
+    url    : 
+  updated:
+    date   : 2017-01-13
+    url    : https://github.com/QubesOS/qubes-issues/issues/910#issuecomment-272375909
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : MAC Randomization for `iwlwifi`
   issue  : 938
   devs   : ttasket
