@@ -289,3 +289,20 @@
   - desc   : 
     url    : 
 
+- name   : VM topography visualization tool
+  issue  : 2575
+  devs   : Zrubi, Andrew (kyboren)
+  status :
+    term   : PoC
+    url    : https://gist.github.com/Zrubi/6229d5400bde987b1aa8da516553b909
+  updated:
+    date   : 2017-01-13
+    url    : https://github.com/QubesOS/qubes-issues/issues/2575#issue-200576820
+  info   :
+  - desc   : Discussion 1
+    url    : https://groups.google.com/d/topic/qubes-devel/64-WJIMY18A/discussion
+  - desc   : Discussion 2
+    url    : https://groups.google.com/d/topic/qubes-users/EPuXNkSFxdE/discussion
+  - desc   : Zrubi's implementation
+    url    : https://gist.github.com/Zrubi/6229d5400bde987b1aa8da516553b909
+
