@@ -47,6 +47,21 @@
   - desc   : PoC
     url    : https://github.com/marmarek/split-gpg2
 
+- name   : Incremental backups
+  issue  : 858
+  devs   : v6ak
+  status :
+    term   : PoC
+    url    : https://github.com/v6ak/qubes-incremental-backup-poc
+  updated:
+    date   : 2017-02-19
+    url    : https://github.com/QubesOS/qubes-issues/issues/858#issuecomment-280913777
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Centralized Tray Notifications
   issue  : 889
   devs   : v6ak
