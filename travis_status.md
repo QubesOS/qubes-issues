@@ -1,4 +1,4 @@
-Buiild status
+Build status
 -----------------------------------------------
 
 | Component | Build Status (release3.2) | Build Status (master) |
