@@ -336,3 +336,20 @@
   - desc   : Zrubi's implementation
     url    : https://gist.github.com/Zrubi/6229d5400bde987b1aa8da516553b909
 
+- name   : Qubes-VM-hardening
+  issue  : 2748
+  devs   : Tasket
+  status :
+    term   : PoC
+    url    : https://github.com/tasket/Qubes-VM-hardening
+  updated:
+    date   : 2017-04-16
+    url    : https://github.com/QubesOS/qubes-issues/issues/2748
+  info   :
+  - desc   : Discussion
+    url    : https://groups.google.com/d/msgid/qubes-users/0eb0a2c6-5a42-19a4-0ebc-718606d1e245%40openmailbox.org
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
