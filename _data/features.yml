@@ -274,6 +274,21 @@
   - desc   : 
     url    : 
 
+- name   : Split SSH
+  issue  : 1962
+  devs   : henn
+  status :
+    term   : In progress
+    url    : https://github.com/henn/qubes-app-split-ssh
+  updated:
+    date   : 2017-04-21
+    url    : https://github.com/QubesOS/qubes-issues/issues/1962#issuecomment-296331709
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Append-only build log
   issue  : 2023
   devs   : HW42
