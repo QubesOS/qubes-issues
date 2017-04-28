@@ -124,21 +124,6 @@
   - desc   : 
     url    : 
 
-- name   : Create deterministic Debian source packages
-  issue  : 1244
-  devs   : nrgaway
-  status :
-    term   : In progress
-    url    : 
-  updated:
-    date   : 2016-01-29
-    url    : https://github.com/QubesOS/qubes-issues/issues/1244#issuecomment-176698555
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
-
 - name   : Improve audio/video sync
   issue  : 1322
   devs   : qubesuser
