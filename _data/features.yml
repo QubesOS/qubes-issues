@@ -94,7 +94,7 @@
 
 - name   : MAC Randomization for `iwlwifi`
   issue  : 938
-  devs   : ttasket
+  devs   : Tasket
   status :
     term   : PoC
     url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-251198637
