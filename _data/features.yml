@@ -321,6 +321,23 @@
   - desc   : Zrubi's implementation
     url    : https://gist.github.com/Zrubi/6229d5400bde987b1aa8da516553b909
 
+- name   : Multi-Update Tool
+  issue  : 2718
+  devs   : Tasket
+  status :
+    term   : PoC
+    url    : https://github.com/tasket/Qubes-scripts/blob/master/qubes-multi-update
+  updated:
+    date   : 2017-05-26
+    url    : https://github.com/QubesOS/qubes-issues/issues/2718#issuecomment-304398325
+  info   :
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Qubes-VM-hardening
   issue  : 2748
   devs   : Tasket
