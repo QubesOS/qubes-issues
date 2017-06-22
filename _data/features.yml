@@ -169,6 +169,21 @@
   - desc   : 
     url    : 
 
+- name   : Routing Qubes master audio to a VM
+  issue  : 1590
+  devs   : Matt McCutchen
+  status :
+    term   : In progress
+    url    : 
+  updated:
+    date   : 2017-06-19
+    url    : https://github.com/QubesOS/qubes-issues/issues/1590#issuecomment-309379914
+  info   :
+  - desc   : Discussion
+    url    : https://groups.google.com/d/topic/qubes-devel/kmAjYCP8K_4/discussion
+  - desc   : 
+    url    : 
+
 - name   : KDE5 decoration plugin
   issue  : 1784
   devs   : jgriffiths, Marek
