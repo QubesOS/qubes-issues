@@ -47,6 +47,21 @@
   - desc   : PoC
     url    : https://github.com/marmarek/split-gpg2
 
+- name   : More Qubes extensions for Thunderbird
+  issue  : 845
+  devs   : Raffaele Florio
+  status :
+    term   : PoC
+    url    : https://github.com/raffaeleflorio/qubes-url-redirector
+  updated:
+    date   : 2017-09-07
+    url    : https://groups.google.com/d/msgid/qubes-devel/MYIyHEZVSsqeDs0Waho7h5IP79NiIgisjF07jeJtE7A-lUatg5rzR-qTiuWAQOmuf6UX93RC2GFtzMyNdMg7chPWdN2CQ7jA4mL1EbEQfkI%3D%40protonmail.com
+  info   :
+  - desc   : Discussion
+    url    : https://groups.google.com/d/topic/qubes-devel/fsIAQO1xFkU/discussion
+  - desc   : 
+    url    : 
+
 - name   : Incremental backups
   issue  : 858
   devs   : v6ak
