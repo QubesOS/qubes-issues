@@ -351,6 +351,23 @@
   - desc   : Zrubi's implementation
     url    : https://gist.github.com/Zrubi/6229d5400bde987b1aa8da516553b909
 
+- name   : Integrate YubiKey with LUKS
+  issue  : 2712
+  devs   : the2nd
+  status :
+    term   : PoC
+    url    : https://github.com/the2nd/ykluks
+  updated:
+    date   : 2017-09-21
+    url    : https://github.com/QubesOS/qubes-issues/issues/2712#issuecomment-331245312
+  info   :
+  - desc   : Discussion
+    url    : https://groups.google.com/d/topic/qubes-users/hB0XaquzBAg/discussion
+  - desc   : 
+    url    : 
+  - desc   : 
+    url    : 
+
 - name   : Multi-Update Tool
   issue  : 2718
   devs   : Tasket
