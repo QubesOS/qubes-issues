@@ -402,3 +402,20 @@
   - desc   : 
     url    : 
 
+- name   : qubes-url-redirector
+  issue  : 3152
+  devs   : Raffaele Florio
+  status :
+    term   : PoC
+    url    : https://github.com/raffaeleflorio/qubes-url-redirector
+  updated:
+    date   : 2017-10-07
+    url    : https://github.com/QubesOS/qubes-issues/issues/3152#issue-263668739
+  info   :
+  - desc   : Discussion
+    url    : https://groups.google.com/forum/#!topic/qubes-devel/fsIAQO1xFkU
+  - desc   : GSoC Project Description
+    url    : https://www.qubes-os.org/gsoc/#thunderbird-firefox-and-chrome-extensions
+  - desc   : 
+    url    : 
+
