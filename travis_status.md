@@ -3,7 +3,7 @@ Build status
 
 | Component | Build Status (release3.2) | Build Status (master) |
 |-----------|--------------|------------|
-| vmm-xen | [![Build Status](https://travis-ci.org/QubesOS/qubes-vmm-xen.svg?branch=xen-4.6)](https://travis-ci.org/QubesOS/qubes-vmm-xen) | [![Build Status](https://travis-ci.org/QubesOS/qubes-vmm-xen.svg?branch=xen-4.7)](https://travis-ci.org/QubesOS/qubes-vmm-xen) | 
+| vmm-xen | [![Build Status](https://travis-ci.org/QubesOS/qubes-vmm-xen.svg?branch=xen-4.6)](https://travis-ci.org/QubesOS/qubes-vmm-xen) | [![Build Status](https://travis-ci.org/QubesOS/qubes-vmm-xen.svg?branch=xen-4.8)](https://travis-ci.org/QubesOS/qubes-vmm-xen) | 
 | core-libvirt | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-libvirt.svg?branch=release3.2)](https://travis-ci.org/QubesOS/qubes-core-libvirt) |[![Build Status](https://travis-ci.org/QubesOS/qubes-core-libvirt.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-core-libvirt) |
 | core-vchan-xen | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-vchan-xen.svg?branch=release3.2)](https://travis-ci.org/QubesOS/qubes-core-vchan-xen) | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-vchan-xen.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-core-vchan-xen) | 
 | core-qubesdb | [![Build Status](https://travis-ci.org/QubesOS/qubes-core-qubesdb.svg?branch=release3.2)](https://travis-ci.org/QubesOS/qubes-core-qubesdb) |[![Build Status](https://travis-ci.org/QubesOS/qubes-core-qubesdb.svg?branch=master)](https://travis-ci.org/QubesOS/qubes-core-qubesdb) |
