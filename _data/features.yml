@@ -248,14 +248,14 @@
   issue  : 1938
   devs   : irykoon
   status :
-    term   : In progress
-    url    : 
+    term   : PoC
+    url    : https://github.com/irykoon/anon-connection-wizard
   updated:
-    date   : 2017-02-26
-    url    : https://github.com/QubesOS/qubes-issues/issues/1938#issuecomment-282627252
+    date   : 2017-08-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/1938#issuecomment-326179338
   info   :
-  - desc   : 
-    url    : 
+  - desc   : Post on Whonix blog
+    url    : https://www.whonix.org/blog/anon-connection-wizard
   - desc   : 
     url    : 
 
