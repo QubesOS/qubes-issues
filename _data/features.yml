@@ -404,3 +404,20 @@
   - desc   : 
     url    : 
 
+- name   : Open-source GUI for Qubes 4
+  issue  : 
+  devs   : Tom Zander
+  status :
+    term   : In progress
+    url    : https://groups.google.com/d/topic/qubes-devel/oMo9YvCFC9I/discussion
+  updated:
+    date   : 2017-12-21
+    url    : https://groups.google.com/d/msg/qubes-devel/oMo9YvCFC9I/eROnHUW-AQAJ
+  info   :
+  - desc   : qubes-devel discussion
+    url    : https://groups.google.com/d/topic/qubes-devel/oMo9YvCFC9I/discussion
+  - desc   : qubes-users discussion
+    url    : https://groups.google.com/d/topic/qubes-users/PGpoN5hrOeE/discussion
+  - desc   : 
+    url    : 
+
