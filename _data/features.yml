@@ -424,4 +424,16 @@
     url    : https://groups.google.com/d/topic/qubes-devel/dT1JnmzjDWc/discussion
   - desc   : qubes-users
     url    : https://groups.google.com/d/topic/qubes-users/PGpoN5hrOeE/discussion
-
+    
+- name   : Qubes Network Server
+  issue  : 3512
+  devs   : Rudd-o
+  status :
+    term   : PoC
+    url    : https://github.com/Rudd-O/qubes-network-server
+  updated:
+    date   : 2016-11-05
+    url    : https://github.com/Rudd-O/qubes-network-server/issues/4
+  info   :
+  - desc   : HVM support needed (discussion)
+    url    : https://groups.google.com/forum/m/#!msg/qubes-users/sNjucuuiCcQ/UyNAnHKjAAAJ
