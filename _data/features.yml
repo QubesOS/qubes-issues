@@ -404,27 +404,6 @@
   - desc   : 
     url    : 
 
-- name   : Qubes Controller
-  issue  : 3417
-  devs   : Tom Zander
-  status :
-    term   : In progress
-    url    : https://github.com/QubesOS/qubes-issues/issues/3417
-  updated:
-    date   : 2018-01-03
-    url    : https://groups.google.com/forum/#!msg/qubes-devel/dT1JnmzjDWc/RiEawvn_DgAJ
-  info   :
-  - desc   : qubes-api-cpp-lib
-    url    : https://github.com/QubesController/qubes-api-cpp-lib
-  - desc   : qubes-controller
-    url    : https://github.com/QubesController/qubes-controller
-  - desc   : qubes-devel 1
-    url    : https://groups.google.com/d/topic/qubes-devel/oMo9YvCFC9I/discussion
-  - desc   : qubes-devel 2
-    url    : https://groups.google.com/d/topic/qubes-devel/dT1JnmzjDWc/discussion
-  - desc   : qubes-users
-    url    : https://groups.google.com/d/topic/qubes-users/PGpoN5hrOeE/discussion
-    
 - name   : Qubes Network Server
   issue  : 3512
   devs   : Rudd-O
