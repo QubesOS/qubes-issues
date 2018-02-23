@@ -8,9 +8,8 @@
 
 
 
-#### Affected TemplateVMs: 
-<!-- (e.g., `fedora-23`, if applicable)
-     Type below this line. -->
+#### Affected component(s): 
+<!-- Type below this line. -->
 
 
 
