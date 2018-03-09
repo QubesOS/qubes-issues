@@ -1,4 +1,4 @@
-#### Qubes OS version:
+### Qubes OS version:
 <!-- (e.g., `R3.2`)
      You can get it from the dom0 terminal with the command
          `cat /etc/qubes-release`
@@ -9,7 +9,7 @@
 
 
 <!-- Type above this line. -->
-#### Affected component(s): 
+### Affected component(s): 
 <!-- Type below this line. -->
 
 
@@ -55,7 +55,7 @@
 <!-- Type above this line. -->
 ---
 <!--------------------------->
-#### Related issues:
+### Related issues:
 <!-- Type below this line. -->
 
 
