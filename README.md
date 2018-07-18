@@ -2,19 +2,24 @@ Qubes Issues repository
 =======================
 
 This repository tracks issues and feature development progress for the [Qubes OS
-Project](https://www.qubes-os.org/).
+Project](https://www.qubes-os.org/). Please take a moment to read the following
+important information:
 
-* [File a new issue](https://github.com/QubesOS/qubes-issues/issues/new)
-  * [How to report bugs](https://www.qubes-os.org/doc/reporting-bugs/)
-  * [How to contribute code](https://www.qubes-os.org/doc/contributing/#contributing-code)
-* [View all Qubes issues](https://github.com/QubesOS/qubes-issues/issues)
-* [Community-Developed Feature Tracker](https://www.qubes-os.org/qubes-issues/)
+* [Reporting Bugs](https://www.qubes-os.org/doc/reporting-bugs/)
+* [Contributing](https://www.qubes-os.org/doc/contributing/)
+* [Help, Support, and Mailing Lists](https://www.qubes-os.org/support/)
+* [Code of Conduct](https://www.qubes-os.org/code-of-conduct/)
+* [Terms of Use](https://www.qubes-os.org/terms/)
+
+You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new)
+or [view all Qubes issues](https://github.com/QubesOS/qubes-issues/issues).
 
 
 Notable issues
 --------------
 
-[Open and unassigned](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+no%3Amilestone) (neither to human nor milestone)
+* [Open and unassigned](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+no%3Amilestone) (neither to human nor milestone)
+* [Community-Developed Feature Tracker](https://www.qubes-os.org/qubes-issues/)
 
 | release | critical | pending backports |
 |---------|----------|-------------------|

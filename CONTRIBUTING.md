@@ -2,8 +2,10 @@ Creating a Qubes OS Issue
 =========================
 
 Thank you for contributing to the Qubes OS project! Before you create a new
-issue, please take a moment to read our guidlines on [reporting bugs] and
-[contributing code].
+issue, please take a moment to read the following important information:
 
-[reporting bugs]: https://www.qubes-os.org/doc/reporting-bugs/
-[contributing code]: https://www.qubes-os.org/doc/contributing/#contributing-code
+* [Reporting Bugs](https://www.qubes-os.org/doc/reporting-bugs/)
+* [Contributing](https://www.qubes-os.org/doc/contributing/)
+* [Help, Support, and Mailing Lists](https://www.qubes-os.org/support/)
+* [Code of Conduct](https://www.qubes-os.org/code-of-conduct/)
+* [Terms of Use](https://www.qubes-os.org/terms/)
