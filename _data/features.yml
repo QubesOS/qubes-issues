@@ -289,7 +289,7 @@
   - desc   : Zrubi's implementation
     url    : https://gist.github.com/Zrubi/6229d5400bde987b1aa8da516553b909
 
-- name   : Integrate 2FA/YubiKey into LUKS
+- name   : Integrate 2FA with LUKS
   issue  : 2712
   devs   : the2nd, raffaeleflorio
   status :
