@@ -298,7 +298,7 @@
   updated:
     date   : 2018-08-09
     url    : https://github.com/QubesOS/qubes-issues/issues/2712#issuecomment-411762578
-    info   :
+  info   :
   - desc   : the2nd's PoC
     url    : https://github.com/raffaeleflorio/luks-2fa-dracut
   - desc   : raffaeleflorio's PoC
@@ -315,7 +315,7 @@
   updated:
     date   : 2017-05-26
     url    : https://github.com/QubesOS/qubes-issues/issues/2718#issuecomment-304398325
-    info   :
+  info   :
   - desc   : 
     url    : 
   - desc   : 
@@ -332,7 +332,7 @@
   updated:
     date   : 2018-07-23
     url    : https://github.com/QubesOS/qubes-issues/issues/2748#issuecomment-407136048
-    info   :
+  info   :
   - desc   : Discussion
     url    : https://groups.google.com/d/msgid/qubes-users/0eb0a2c6-5a42-19a4-0ebc-718606d1e245%40openmailbox.org
   - desc   : 
@@ -349,7 +349,7 @@
   updated:
     date   : 2018-05-30
     url    : https://github.com/QubesOS/qubes-issues/issues/3152#issuecomment-393093567
-    info   :
+  info   :
   - desc   : Discussion
     url    : https://groups.google.com/forum/#!topic/qubes-devel/fsIAQO1xFkU
   - desc   : GSoC Project Description
