@@ -197,21 +197,6 @@
   - desc   : 
     url    : 
 
-- name   : Storage Subsystem Design R4
-  issue  : 1842
-  devs   : Bahtiar, Marek
-  status :
-    term   : In progress
-    url    : 
-  updated:
-    date   : 2016-05-21
-    url    : https://github.com/QubesOS/qubes-issues/issues/1842#issuecomment-220783182
-  info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
-
 - name   : Debian in dom0
   issue  : 1919
   devs   : unman
