@@ -294,7 +294,8 @@
   devs   : the2nd, raffaeleflorio
   status :
     term   : PoC
-    url    :   updated:
+    url    :   
+  updated:
     date   : 2018-08-09
     url    : https://github.com/QubesOS/qubes-issues/issues/2712#issuecomment-411762578
     info   :
@@ -314,7 +315,7 @@
   updated:
     date   : 2017-05-26
     url    : https://github.com/QubesOS/qubes-issues/issues/2718#issuecomment-304398325
-  info   :
+    info   :
   - desc   : 
     url    : 
   - desc   : 
