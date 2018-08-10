@@ -92,23 +92,6 @@
   - desc   : PoC
     url    : https://groups.google.com/d/msg/qubes-devel/1Lzv9SQCzFc/4gKx06iKRD4J
 
-- name   : MAC Randomization for `iwlwifi`
-  issue  : 938
-  devs   : Tasket
-  status :
-    term   : PoC
-    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-251198637
-  updated:
-    date   : 2017-08-05
-    url    : https://github.com/QubesOS/qubes-issues/issues/938#issuecomment-320373353
-  info   :
-  - desc   : Tails implementation
-    url    : https://tails.boum.org/contribute/design/MAC_address/#index8h1
-  - desc   : Conversation with NM devs
-    url    : https://mail.gnome.org/archives/networkmanager-list/2016-April/msg00084.html
-  - desc   : Upstream NM patch
-    url    : https://bugzilla.gnome.org/show_bug.cgi?id=705545
-
 - name   : Qubes Screenshot Tool
   issue  : 953
   devs   : Eva Dogstar
