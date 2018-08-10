@@ -346,9 +346,9 @@
     term   : PoC
     url    : https://github.com/raffaeleflorio/qubes-url-redirector
   updated:
-    date   : 2018-02-23
-    url    : https://groups.google.com/d/msgid/qubes-devel/eo7G_0p3h11s3nnrlGB0nJiFHJ7EFQY_9Wc_wCGahezQHQobof6m3G9JqHqffhuN4c2ix2MkYlFVSz2otD8TDhTf3mCLQsqOPCxcguNPIGk%3D%40protonmail.com
-  info   :
+    date   : 2018-05-30
+    url    : https://github.com/QubesOS/qubes-issues/issues/3152#issuecomment-393093567
+    info   :
   - desc   : Discussion
     url    : https://groups.google.com/forum/#!topic/qubes-devel/fsIAQO1xFkU
   - desc   : GSoC Project Description
