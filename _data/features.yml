@@ -244,21 +244,6 @@
   - desc   : 
     url    : 
 
-- name   : anon-connection-wizard
-  issue  : 1938
-  devs   : irykoon
-  status :
-    term   : PoC
-    url    : https://github.com/irykoon/anon-connection-wizard
-  updated:
-    date   : 2017-08-30
-    url    : https://github.com/QubesOS/qubes-issues/issues/1938#issuecomment-326179338
-  info   :
-  - desc   : Post on Whonix blog
-    url    : https://www.whonix.org/blog/anon-connection-wizard
-  - desc   : 
-    url    : 
-
 - name   : Cache updates
   issue  : 1957
   devs   : Rustybird
