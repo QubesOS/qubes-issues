@@ -169,13 +169,13 @@
 
 - name   : Routing Qubes master audio to a VM
   issue  : 1590
-  devs   : Matt McCutchen
+  devs   : 
   status :
-    term   : In progress
+    term   : Planning
     url    : 
   updated:
-    date   : 2017-06-19
-    url    : https://github.com/QubesOS/qubes-issues/issues/1590#issuecomment-309379914
+    date   : 2018-11-03
+    url    : https://github.com/QubesOS/qubes-issues/issues/1590#issuecomment-435604304
   info   :
   - desc   : Discussion
     url    : https://groups.google.com/d/topic/qubes-devel/kmAjYCP8K_4/discussion
