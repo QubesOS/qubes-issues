@@ -5,7 +5,7 @@
 
 
 <!-- Type above this line. -->
-### Affected component(s):<!-- Type below this line. -->
+### Affected component(s) or functionality:<!-- Type below this line. -->
 
 
 
@@ -21,7 +21,7 @@
 
 
 <!-- Type above this line. -->
-### Expected behavior:<!-- Type below this line. -->
+### Expected or desired behavior:<!-- Type below this line. -->
 
 
 
@@ -44,7 +44,7 @@
 <!-- Type above this line. -->
 ---
 <!--------------------------->
-### Related issues:<!-- Type below this line. -->
+### Links to related qubes-issues:<!-- Type below this line. -->
 
 
 
