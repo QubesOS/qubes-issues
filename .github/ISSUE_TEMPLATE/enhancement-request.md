@@ -2,7 +2,7 @@
 name: Enhancement request
 about: Suggest a new feature or an improvement of existing functionality.
 title: ''
-labels: 'T: enhancement, P: default'
+labels: 'P: default, T: enhancement'
 assignees: ''
 
 ---
