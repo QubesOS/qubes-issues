@@ -42,4 +42,4 @@ _If applicable, any solutions or workarounds you've already tried._
 _A list of links to the Qubes documentation (or other relevant software documentation) pages you have already consulted._
 
 **Related, [non-duplicate](https://www.qubes-os.org/doc/reporting-bugs/#new-issues-should-not-be-duplicates-of-existing-issues) issues**
-_A list of links to other bug reports, feature requests, or tasks in the qubes-issues tracker. Do not describe any other unreported bugs, features, or tasks here._
+_A list of links to other bug reports, feature requests, or tasks in the qubes-issues tracker (or "none" if you didn't find any). Do not describe any other unreported bugs, features, or tasks here._
