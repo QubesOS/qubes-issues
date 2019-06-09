@@ -66,18 +66,18 @@
   issue  : 858
   devs   : v6ak, tasket
   status :
-    term   : v6ak's PoC
-    url    : https://github.com/v6ak/qubes-incremental-backup-poc
-    term   : tasket's PoC
-    url    : https://github.com/tasket/sparsebak/
+    term   : PoC
+    url    : 
+    term   : 
+    url    : 
   updated:
     date   : 2019-01-07
     url    : https://github.com/QubesOS/qubes-issues/issues/858#issuecomment-452099241
   info   :
-  - desc   : 
-    url    : 
-  - desc   : 
-    url    : 
+  - desc   : v6ak'sPoC
+    url    : https://github.com/v6ak/qubes-incremental-backup-poc
+  - desc   : tasket's PoC
+    url    : https://github.com/tasket/sparsebak/
 
 - name   : Centralized Tray Notifications
   issue  : 889
