@@ -18,7 +18,6 @@ or [view all Qubes issues](https://github.com/QubesOS/qubes-issues/issues).
 Notable issues
 --------------
 
-* [Open and unassigned](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+no%3Amilestone) (neither to human nor milestone)
 * [Help wanted](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 * [Community-developed](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity-dev)
 
