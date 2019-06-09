@@ -64,13 +64,15 @@
 
 - name   : Incremental backups
   issue  : 858
-  devs   : v6ak
+  devs   : v6ak, tasket
   status :
-    term   : PoC
+    term   : v6ak's PoC
     url    : https://github.com/v6ak/qubes-incremental-backup-poc
+    term   : tasket's PoC
+    url    : https://github.com/tasket/sparsebak/
   updated:
-    date   : 2017-03-20
-    url    : https://groups.google.com/d/msgid/qubes-users/6e0a43cf-bcf8-44be-b68b-8e732a1c96e8%40googlegroups.com
+    date   : 2019-01-07
+    url    : https://github.com/QubesOS/qubes-issues/issues/858#issuecomment-452099241
   info   :
   - desc   : 
     url    : 
