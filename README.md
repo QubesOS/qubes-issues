@@ -11,15 +11,20 @@ important information:
 * [Code of Conduct](https://www.qubes-os.org/code-of-conduct/)
 * [Terms of Use](https://www.qubes-os.org/terms/)
 
-You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new)
-or [view all Qubes issues](https://github.com/QubesOS/qubes-issues/issues).
+You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new/choose)
+or [view all issues](https://github.com/QubesOS/qubes-issues/issues).
 
 
 Notable issues
 --------------
 
+* [Good first issue](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 * [Help wanted](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 * [Community-developed](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity-dev)
+
+
+Issues by release
+-----------------
 
 | release | critical | pending backports |
 |---------|----------|-------------------|
@@ -29,7 +34,12 @@ Notable issues
 | [Release 4.1](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Release+4.1%22) | [critical](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22P%3A+critical%22+-label%3Awontfix+milestone%3A%22Release+4.1%22) |
 | [no milestone](https://github.com/QubesOS/qubes-issues/issues?utf8=%E2%9C%93&q=is%3Aopen%20no%3Amilestone%20) | [critical](https://github.com/QubesOS/qubes-issues/issues?utf8=%E2%9C%93&q=is%3Aopen%20no%3Amilestone%20label%3A%22P%3A%20critical%22%20-label%3Awontfix) |
 
-[Build status (Travis-CI)](travis_status.md)
+[Component build status by release (Travis-CI)](travis_status.md)
+
+
+GitHub help
+-----------
 
 * [GitHub search syntax](https://help.github.com/articles/search-syntax/)
 * [GitHub search syntax related to issues](https://help.github.com/articles/searching-issues/)
+
