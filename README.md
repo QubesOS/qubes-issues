@@ -1,12 +1,18 @@
 Qubes OS Community-Developed Feature Tracker
 ============================================
 
-This repository tracks the progress of Qubes OS features under development by
-members of the community. You can view the tracker [on the Qubes OS
-website][website]. You can also serve it from your local machine with [Jekyll]
-or view the [raw YAML data].
+The Community-Developed Feature Tracker has moved into the [qubes-issues](https://github.com/QubesOS/qubes-issues/issues) issue tracker!
 
-[website]: https://www.qubes-os.org/qubes-issues/
-[Jekyll]: https://jekyllrb.com/
-[raw YAML data]: https://github.com/QubesOS/qubes-issues/blob/gh-pages/_data/features.yml
+All of the issues that used to be tracked here are now conveniently available by [viewing all open `community-dev` issues](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity-dev).
+
+You can see the status of each issue by looking at the `S:` (status) labels.
+For example:
+
+* [`S: partial`](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity-dev+label%3A%22S%3A+partial%22)
+* [`S: in progress`](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity-dev+label%3A%22S%3A+in+progress%22)
+* [`S: under review`](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity-dev+label%3A%22S%3A+under+review%22)
+
+(You can read a more detailed description of each of these statuses by hovering over the label in GitHub.)
+
+At the top of each issue, you can also find relevant information, like the **Community Dev** who is working on that issue, a link to the **PoC** (if any), and a link to the **Discussion** thread.
 
