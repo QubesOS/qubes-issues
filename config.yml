@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Qubes OS Project Security Center
+    url: https://www.qubes-os.org/security/
+    about: General security information, including how to report security issues
+  - name: Help, Support, and Mailing Lists
+    url: https://www.qubes-os.org/support/
+    about: How to get help and support via the mailing lists
+  - name: Reporting bugs and other issues
+    url: https://www.qubes-os.org/doc/reporting-bugs/
+    about: How to file bug reports, enhancement requests, and tasks
