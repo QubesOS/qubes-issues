@@ -1,11 +1,13 @@
 ---
 name: Bug report
-about: 'Before filing this report, please read: https://www.qubes-os.org/doc/reporting-bugs/ '
+about: 'Report a problem in existing functionality, including documentation and infrastructure.'
 title: ''
 labels: 'P: default, T: bug'
 assignees: ''
 
 ---
+
+<!-- Before filing this report, please read: https://www.qubes-os.org/doc/reporting-bugs/ -->
 
 **Qubes OS version**
 _The version of Qubes OS you're using (e.g., `R4.0`), available via the command `cat /etc/qubes-release` in a dom0 terminal._
