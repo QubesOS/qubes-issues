@@ -7,10 +7,20 @@ assignees: ''
 
 ---
 
+<!--(Please use this issue template. Do not delete it.)-->
 <!--(Before filing this report, please read: https://www.qubes-os.org/doc/reporting-bugs/)-->
 
 **Qubes OS version**
 <!--(The version of Qubes OS you're using (e.g., `R4.0`), available via the command `cat /etc/qubes-release` in a dom0 terminal.)-->
+
+
+
+**Are you using any [testing](https://www.qubes-os.org/doc/testing/) repositories? If so, please list them and where they are enabled (i.e., dom0, TemplateVM, or StandaloneVM).**
+<!--(Please be sure to specify both the names of any enabled testing repos and where the testing repos are enabled, e.g., in dom0 or in specific TemplateVMs.)-->
+
+
+
+**Are you providing feedback about a specific package or packages in testing? (If so, please list the package(s) here and [provide feedback in `updates-status`](https://www.qubes-os.org/doc/testing/#providing-feedback), linking to this issue.)**
 
 
 
@@ -68,5 +78,6 @@ Steps to reproduce the behavior:
 
 **Related, [non-duplicate](https://www.qubes-os.org/doc/reporting-bugs/#new-issues-should-not-be-duplicates-of-existing-issues) issues**
 <!--(A list of links to other bug reports, feature requests, or tasks in the qubes-issues tracker (or "none" if you didn't find any). Do not describe any other unreported bugs, features, or tasks here.)-->
+
 
 
