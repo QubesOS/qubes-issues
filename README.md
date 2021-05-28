@@ -34,7 +34,8 @@ Issues by release
 | [Release 4.1](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Release+4.1%22) | [critical](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22P%3A+critical%22+-label%3Awontfix+milestone%3A%22Release+4.1%22) |
 | [no milestone](https://github.com/QubesOS/qubes-issues/issues?utf8=%E2%9C%93&q=is%3Aopen%20no%3Amilestone%20) | [critical](https://github.com/QubesOS/qubes-issues/issues?utf8=%E2%9C%93&q=is%3Aopen%20no%3Amilestone%20label%3A%22P%3A%20critical%22%20-label%3Awontfix) |
 
-[Component build status by release (Travis-CI)](travis_status.md)
+[Component build status by release (Gitlab-CI)](https://qubesos.gitlab.io/qubes-g2g-report/)
+[Component build status by release (Travis-CI)](travis_status.md) (obsolete)
 
 
 GitHub help
