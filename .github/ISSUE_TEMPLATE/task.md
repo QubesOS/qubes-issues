@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+<!--(Please use this issue template. Do not delete it.)-->
+<!--(Before filing this report, please read: https://www.qubes-os.org/doc/reporting-bugs/)-->
+
 **Qubes OS version (if applicable)**
 <!--(If applicable, the version of Qubes OS that this task concerns (e.g., `R4.0`), available via the command `cat /etc/qubes-release` in a dom0 terminal.)-->
 

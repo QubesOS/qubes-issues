@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+<!--(Please use this issue template. Do not delete it.)-->
+<!--(Before filing this report, please read: https://www.qubes-os.org/doc/reporting-bugs/)-->
+
 **The problem you're addressing (if any)**
 <!--(A clear and concise description of the problem, if any, that this enhancement is intended to address.)-->
 
