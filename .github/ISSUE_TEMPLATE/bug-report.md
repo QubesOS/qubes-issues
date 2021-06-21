@@ -82,7 +82,7 @@ If you're not aware of any relevant documentation, write "None" (or "N/A" if not
 **Related, [non-duplicate](https://www.qubes-os.org/doc/reporting-bugs/#new-issues-should-not-be-duplicates-of-existing-issues) issues**
 <!--(Please read the text below and replace it with you own answer to this prompt.)-->
 
-DO NOT DELTE THIS SECTION.
+DO NOT DELETE THIS SECTION.
 List any related issues you're aware of here.
 Do not describe any other unreported bugs, features, or tasks here. 
 We do not know which issues you've already seen unless you tell us.
