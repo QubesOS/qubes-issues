@@ -5,7 +5,7 @@ This repository tracks issues and feature development progress for the [Qubes OS
 Project](https://www.qubes-os.org/). Please take a moment to read the following
 important information:
 
-* [Reporting Bugs](https://www.qubes-os.org/doc/reporting-bugs/)
+* [Issue Tracking](https://www.qubes-os.org/doc/issue-tracking/)
 * [Contributing](https://www.qubes-os.org/doc/contributing/)
 * [Help, Support, and Mailing Lists](https://www.qubes-os.org/support/)
 * [Code of Conduct](https://www.qubes-os.org/code-of-conduct/)
