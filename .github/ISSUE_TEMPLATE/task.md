@@ -11,12 +11,15 @@ https://www.qubes-os.org/doc/issue-tracking/
 Please use this issue template. Do not delete it.)-->
 
 ### Qubes OS version (if applicable)
-<!--(If applicable, the version of Qubes OS that this task concerns (e.g., `R4.0`), available via the command `cat /etc/qubes-release` in a dom0 terminal.)-->
+<!--(If applicable, the version of Qubes OS that this task concerns (e.g.,
+`R4.0`), available via the command `cat /etc/qubes-release` in a dom0
+terminal.)-->
 
 
 
 ### Affected component(s) or functionality (if applicable)
-<!--(If applicable, the component or functionality of Qubes OS that this task concerns.)-->
+<!--(If applicable, the component or functionality of Qubes OS that this task
+concerns.)-->
 
 
 
