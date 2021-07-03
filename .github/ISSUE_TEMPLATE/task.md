@@ -6,13 +6,10 @@ labels: 'P: default, T: task'
 assignees: ''
 ---
 
-<!--(Please use this issue template. Do not delete it.)-->
+<!--(Before filing this issue, please read:
+https://www.qubes-os.org/doc/issue-tracking/
+Please use this issue template. Do not delete it.)-->
 
-### Checklist
-- [ ] This issue follows the [Issue Tracking Guidelines](https://www.qubes-os.org/doc/issue-tracking/#guidelines).
-- [ ] I have [searched both open and closed issues](https://www.qubes-os.org/doc/issue-tracking/#search-tips) for duplicates.
-
------
 ### Qubes OS version (if applicable)
 <!--(If applicable, the version of Qubes OS that this task concerns (e.g., `R4.0`), available via the command `cat /etc/qubes-release` in a dom0 terminal.)-->
 

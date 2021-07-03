@@ -6,15 +6,10 @@ labels: 'P: default, T: bug'
 assignees: ''
 ---
 
-<!--(Please use this issue template. Do not delete it.)-->
+<!--(Before filing this issue, please read:
+https://www.qubes-os.org/doc/issue-tracking/
+Please use this issue template. Do not delete it.)-->
 
-### Checklist
-- [ ] I have searched the [documentation](https://www.qubes-os.org/doc/) and [FAQ](https://www.qubes-os.org/faq/).
-- [ ] I have searched the [Qubes Forum](https://forum.qubes-os.org/) and [qubes-users](https://www.mail-archive.com/qubes-users@googlegroups.com/).
-- [ ] This issue follows the [Issue Tracking Guidelines](https://www.qubes-os.org/doc/issue-tracking/#guidelines).
-- [ ] I have [searched both open and closed issues](https://www.qubes-os.org/doc/issue-tracking/#search-tips) for duplicates.
-
------
 ### Qubes OS version
 <!--(The version of Qubes OS you're using (e.g., `R4.0`), available via the
 command `cat /etc/qubes-release` in a dom0 terminal.)-->

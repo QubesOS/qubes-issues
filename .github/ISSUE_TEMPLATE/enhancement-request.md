@@ -6,13 +6,10 @@ labels: 'P: default, T: enhancement'
 assignees: ''
 ---
 
-<!--(Please use this issue template. Do not delete it.)-->
+<!--(Before filing this issue, please read:
+https://www.qubes-os.org/doc/issue-tracking/
+Please use this issue template. Do not delete it.)-->
 
-### Checklist
-- [ ] This issue follows the [Issue Tracking Guidelines](https://www.qubes-os.org/doc/issue-tracking/#guidelines).
-- [ ] I have [searched both open and closed issues](https://www.qubes-os.org/doc/issue-tracking/#search-tips) for duplicates.
-
------
 ### The problem you're addressing (if any)
 <!--(A clear and concise description of the problem, if any, that this enhancement is intended to address.)-->
 
