@@ -16,14 +16,14 @@ command `cat /etc/qubes-release` in a dom0 terminal.)-->
 
 
 
-### Which [testing](https://www.qubes-os.org/doc/testing/) repositories are you using, if any?
+### Names and locations of enabled [testing](https://www.qubes-os.org/doc/testing/) repos
 <!--(Please be sure to specify both the names of any enabled testing repos AND
 where the testing repos are enabled (i.e., dom0, template, or standalone).)-->
 
 
 
-### Are you providing feedback about a specific package or packages in testing?
-<!--(If so, please list the package(s) here and [provide feedback in
+### Names of affected [testing](https://www.qubes-os.org/doc/testing/) repo packages
+<!--(Please list the package(s) here and [provide feedback in
 `updates-status`](https://www.qubes-os.org/doc/testing/#providing-feedback),
 linking to this issue.)-->
 
