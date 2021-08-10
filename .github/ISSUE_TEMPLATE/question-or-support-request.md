@@ -1,5 +1,5 @@
 ---
-name: Question or Support Request
+name: Question or support request
 about: 'Ask a question or request support.'
 title: "[INVALID]"
 labels: 'R: invalid'
