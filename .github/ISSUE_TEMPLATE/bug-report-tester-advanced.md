@@ -1,5 +1,5 @@
 ---
-name: Tester and advanced user bug report
+name: Bug report (testers and advanced users)
 about: 'Testers and advanced users: Report a problem in existing functionality, including documentation and infrastructure.'
 title: ''
 labels: 'P: default, T: bug'
