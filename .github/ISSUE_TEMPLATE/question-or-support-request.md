@@ -6,6 +6,7 @@ labels: 'R: invalid'
 assignees: ''
 ---
 
-`qubes-issues` is not the right place to ask questions or request support.
-Instead, please see [Help, Support, Mailing Lists, and
-Forum](https://www.qubes-os.org/support/).
+`qubes-issues` [is not the right place to ask questions or request
+support.](https://www.qubes-os.org/doc/issue-tracking/#do-not-submit-questions)
+Instead, please see [help, support, mailing lists, and
+forum](https://www.qubes-os.org/support/).

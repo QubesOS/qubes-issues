@@ -1,6 +1,6 @@
 ---
-name: Bug report (simple)
-about: 'Report a problem.'
+name: Bug report
+about: 'Report a problem in existing functionality.'
 title: ''
 labels: 'P: default, T: bug'
 assignees: ''
@@ -13,7 +13,9 @@ assignees: ''
 
 
 
+
 ### Brief summary
+
 
 
 
@@ -23,12 +25,15 @@ assignees: ''
 
 
 
+
 ### Expected behavior
 
 
 
 
+
 ### Actual behavior
+
 
 
 
