@@ -1,6 +1,6 @@
 ---
 name: Question or support request
-about: 'Ask a question or request support.'
+about: 'Ask a question or request support'
 title: "[INVALID]"
 labels: 'R: invalid'
 assignees: ''

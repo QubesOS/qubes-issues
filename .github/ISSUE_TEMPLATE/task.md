@@ -1,6 +1,6 @@
 ---
 name: Task
-about: 'Anything actionable that does not qualify as a bug or enhancement.'
+about: 'Anything actionable that does not qualify as a bug or enhancement'
 title: ''
 labels: 'P: default, T: task'
 assignees: ''

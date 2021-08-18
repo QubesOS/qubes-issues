@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: 'Report a problem in existing functionality.'
+about: 'Report a problem in existing functionality'
 title: ''
 labels: 'P: default, T: bug'
 assignees: ''
