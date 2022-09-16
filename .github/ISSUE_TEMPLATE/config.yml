@@ -2,16 +2,16 @@ blank_issues_enabled: false
 contact_links:
   - name: Qubes Forum
     url: https://forum.qubes-os.org/
-    about: Get help, ask questions, and discuss Qubes.
+    about: Get help, ask questions, and discuss Qubes
   - name: qubes-users mailing list
     url: https://www.qubes-os.org/support/#qubes-users
-    about: Get help, ask questions, and discuss Qubes.
+    about: Get help, ask questions, and discuss Qubes
   - name: qubes-devel mailing list
     url: https://www.qubes-os.org/support/#qubes-devel
-    about: Technical discussion for developers and code contributors.
+    about: Technical discussion for developers and code contributors
   - name: qubes-project mailing list
     url: https://www.qubes-os.org/support/#qubes-project
-    about: Non-technical discussion and coordination of project matters.
+    about: Non-technical discussion and coordination of project matters
   - name: qubes-translation mailing list
     url: https://www.qubes-os.org/support/#qubes-translation
-    about: All localization and translation topics.
+    about: All localization and translation topics
