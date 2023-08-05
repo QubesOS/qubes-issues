@@ -1,0 +1,30 @@
+name: Close old 4.0 issues with a suitable comment
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'eol-4.0'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            This issue is being closed because:
+
+            - This issue is on the "Release 4.0 updates" milestone.
+            - [Qubes OS 4.0 reached EOL (end-of-life) over one year ago.](https://www.qubes-os.org/news/2022/08/04/qubes-4-0-has-reached-eol/)
+            - There has not been any activity on this issue in over one year.
+
+            If anyone believes that this issue should be reopened and reassigned to an active milestone, please leave a brief comment.
+            (For example, if a bug still affects Qubes OS 4.1, then the comment "Affects 4.1" will suffice.)
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          close-reason: not_planned
