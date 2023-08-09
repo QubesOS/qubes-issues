@@ -8,7 +8,7 @@ assignees: ''
 
 [How to file a helpful issue](https://www.qubes-os.org/doc/issue-tracking/)
 
-### Qubes OS or template release (if applicable)
+### Qubes OS release (if applicable)
 
 
 
