@@ -1,0 +1,35 @@
+name: Close issue with the resolution "declined"
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: "github.event.label.name == 'R: declined'"
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            This issue has been closed as "declined." This means that the issue describes a legitimate bug (in the case of bug reports) or proposal (in the case of enhancements and tasks), and it is actionable. Nonetheless, it has been decided that no action will be taken on this issue. Here are some examples of reasons why an issue may be declined:
+
+            - No solution can be found.
+            - The proposed action is not possible.
+            - The proposed action would weaken security to an unacceptable degree.
+            - The proposed action would be too costly (in time, money, or other resources) relative to the benefits it would provide.
+            - The proposed action would make some things better while making other things worse, and the trade-off is not worthwhile.
+
+            These are just general examples. If the specific reason for this particular issue being declined has not already been provided, please feel free to leave a comment below asking for an explanation.
+
+            We respect the time and effort you have taken to file this issue, and we understand that this outcome may be unsatisfying. Please accept our sincere apologies and know that we greatly value your participation and membership in the Qubes community.
+
+            If anyone reading this believes that this issue was closed in error or that the resolution of "declined" is not accurate, please leave a comment below, and the Qubes team will review this issue again. For more information, see [How issues get closed](https://www.qubes-os.org/doc/issue-tracking/#how-issues-get-closed).
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          close-reason: not_planned
