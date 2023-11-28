@@ -19,7 +19,7 @@ jobs:
 
             We respect the time and effort you have taken to file this issue, and we understand that this outcome may be unsatisfying. Please accept our sincere apologies and know that we greatly value your participation and membership in the Qubes community. If the problem becomes reliably reproducible in the future, please let us know in a comment below, and we will reopen this issue.
 
-            If anyone reading this believes that this issue was closed in error or that the resolution of "cannot reproduce" is not accurate, please leave a comment below, and we will review this issue again. For more information, see [How issues get closed](https://www.qubes-os.org/doc/issue-tracking/#how-issues-get-closed).
+            If anyone reading this believes that this issue was closed in error or that the resolution of "cannot reproduce" is not accurate, please leave a comment below saying so, and we will review this issue again. For more information, see [How issues get closed](https://www.qubes-os.org/doc/issue-tracking/#how-issues-get-closed).
       - name: Close Issue
         uses: peter-evans/close-issue@v3
         with:

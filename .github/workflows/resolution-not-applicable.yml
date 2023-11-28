@@ -30,7 +30,7 @@ jobs:
 
             Regarding help and support requests, please note that this issue tracker (qubes-issues) is not intended to serve as a help desk or tech support center. Instead, we've set up other [venues where you can ask for help and support, ask questions, and have discussions](https://www.qubes-os.org/support/). By contrast, the issue tracker is more of a technical tool intended to support our developers in their work. We thank you for your understanding.
 
-            If anyone reading this believes that this issue was closed in error or that the resolution of "not applicable" is not accurate, please leave a comment below, and we will review this issue again. For more information, see [How issues get closed](https://www.qubes-os.org/doc/issue-tracking/#how-issues-get-closed).
+            If anyone reading this believes that this issue was closed in error or that the resolution of "not applicable" is not accurate, please leave a comment below saying so, and we will review this issue again. For more information, see [How issues get closed](https://www.qubes-os.org/doc/issue-tracking/#how-issues-get-closed).
       - name: Close Issue
         uses: peter-evans/close-issue@v3
         with:
