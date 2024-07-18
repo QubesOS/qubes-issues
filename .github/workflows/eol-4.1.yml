@@ -1,0 +1,29 @@
+name: Apply the label to close Qubes 4.1 issues with a suitable comment
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'eol-4.1'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            This issue is being closed because:
+
+            - This issue is believed to affect only Qubes OS 4.1 (and possibly earlier).
+            - [Qubes OS 4.1 has reached end-of-life (EOL).](https://www.qubes-os.org/news/2024/06/18/qubes-os-4-1-has-reached-end-of-life-extended-security-support-continues-until-2024-07-31/)
+
+            If anyone believes that this issue should be reopened, please leave a comment saying so.
+            (For example, if a bug still affects Qubes OS 4.2, then the comment "Affects 4.2" will suffice.)
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          close-reason: not_planned
