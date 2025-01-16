@@ -1,9 +1,7 @@
 name: Bug report (form)
-about: 'Report an unexpected problem or behavior'
-title: ''
+description: 'Report an unexpected problem or behavior'
 labels: 'P: default'
 type: 'bug'
-assignees: ''
 body:
   - type: markdown
     attributes:
@@ -28,10 +26,10 @@ body:
     attributes:
       label: Steps to reproduce
       description: Please list the steps required to reproduce this bug.
-    value: |
-      1.
-      2.
-      3.
+      value: |
+        1.
+        2.
+        3.
   - type: textarea
     id: expected
     attributes:
