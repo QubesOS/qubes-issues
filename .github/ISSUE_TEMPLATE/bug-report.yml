@@ -11,10 +11,10 @@ body:
     id: release
     attributes:
       label: Qubes OS release
-      description: Which release(s) of Qubes OS, if any, does this bug affect?
+      description: Which [supported Qubes OS release(s)](https://www.qubes-os.org/doc/supported-releases/), if any, does this bug affect?
       options:
-        - Qubes OS 4.2
-        - Qubes OS 4.3
+        - Qubes OS 4.2 (latest stable release)
+        - Qubes OS 4.3 (in development)
       default: 1
       multiple: true
   - type: textarea
