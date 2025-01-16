@@ -5,37 +5,41 @@ title: ''
 labels: 'P: default'
 type: 'bug'
 assignees: ''
----
-
-[How to file a helpful issue](https://www.qubes-os.org/doc/issue-tracking/)
-
-### Qubes OS release
-
-
-
-
-
-### Brief summary
-
-
-
-
-
-### Steps to reproduce
-
-
-
-
-
-### Expected behavior
-
-
-
-
-
-### Actual behavior
-
-
-
-
-
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [How to file a helpful issue](https://www.qubes-os.org/doc/issue-tracking/)
+  - type: dropdown
+    id: release
+    attributes:
+      label: Qubes OS release
+      description: Which release(s) of Qubes OS, if any, does this bug affect?
+      options:
+        - Qubes OS 4.2
+        - Qubes OS 4.3
+      default: 1
+  - type: input
+    id: summary
+    attributes:
+      label: Brief summary
+      description: Please briefly describe the problem.
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Please list the steps required to reproduce this bug.
+    value: |
+      1.
+      2.
+      3.
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: After performing the steps above, what did you expect to happen?
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: After performing the steps above, what actually happened instead?
