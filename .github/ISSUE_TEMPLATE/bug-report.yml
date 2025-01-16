@@ -15,7 +15,7 @@ body:
       options:
         - Qubes OS 4.2 (latest stable release)
         - Qubes OS 4.3 (in development)
-      default: 1
+      default: 0
       multiple: true
   - type: textarea
     id: summary
