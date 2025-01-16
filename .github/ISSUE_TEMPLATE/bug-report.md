@@ -1,8 +1,9 @@
 ---
 name: Bug report
-about: 'Report a problem in existing functionality'
+about: 'Report an unexpected problem or behavior'
 title: ''
-labels: 'P: default, T: bug'
+labels: 'P: default'
+type: 'bug'
 assignees: ''
 ---
 

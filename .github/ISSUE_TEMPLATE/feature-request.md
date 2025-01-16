@@ -1,8 +1,9 @@
 ---
-name: Enhancement request
-about: 'Suggest a new feature or an improvement of existing functionality'
+name: Feature request
+about: 'A request, idea, or new functionality'
 title: ''
-labels: 'P: default, T: enhancement'
+labels: 'P: default'
+type: 'feature'
 assignees: ''
 ---
 
