@@ -17,6 +17,7 @@ body:
         - Qubes OS 4.3
       default: 0
       multiple: true
+    validations
       required: false
   - type: textarea
     id: summary
