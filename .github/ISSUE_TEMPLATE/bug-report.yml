@@ -1,4 +1,4 @@
-name: Bug report (form)
+name: Bug report
 description: 'Report an unexpected problem or behavior'
 labels: 'P: default'
 type: 'bug'
@@ -15,8 +15,9 @@ body:
       options:
         - Qubes OS 4.2
         - Qubes OS 4.3
-      default: 1
-  - type: input
+        - None
+      default: 0
+  - type: textarea
     id: summary
     attributes:
       label: Brief summary
@@ -40,3 +41,8 @@ body:
     attributes:
       label: Actual behavior
       description: After performing the steps above, what actually happened instead?
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional information
+      description: Please provide any additional information you believe will help us diagnose and fix this bug.
