@@ -11,7 +11,7 @@ body:
     id: release
     attributes:
       label: Qubes OS release
-      description: Which [supported Qubes OS release(s)](https://www.qubes-os.org/doc/supported-releases/), if any, does this bug affect?
+      description: Which [supported Qubes OS release(s)](https://www.qubes-os.org/doc/supported-releases/), if any, does this bug affect? Select all that apply. If none apply, deselect all.
       options:
         - Qubes OS 4.2 (latest stable release)
         - Qubes OS 4.3 (in development)
