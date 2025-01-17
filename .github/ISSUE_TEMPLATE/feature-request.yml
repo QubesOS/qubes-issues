@@ -5,8 +5,7 @@ type: 'feature'
 body:
   - type: markdown
     attributes:
-      value: |
-        [How to file a helpful issue](https://www.qubes-os.org/doc/issue-tracking/)
+      value: [How to file a helpful issue](https://www.qubes-os.org/doc/issue-tracking/)
   - type: textarea
     id: problem
     attributes:
