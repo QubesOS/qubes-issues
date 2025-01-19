@@ -1,0 +1,9 @@
+name: Help, support, and questions
+description: Get help and support, or ask a question
+title: '[INVALID]'
+labels: 'R: invalid'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue tracker (qubes-issues) is not intended to serve as a help desk or tech support center, nor is it intended to be a place for fielding [questions](https://www.qubes-os.org/doc/issue-tracking/#do-not-submit-questions). Instead, we've set up other [venues where you can ask for help and support, ask questions, and have discussions](https://www.qubes-os.org/support/). (By contrast, the issue tracker is more of a technical tool intended to support our developers in their work.) Thank you for your understanding.
