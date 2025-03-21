@@ -1,5 +1,5 @@
 ---
-name: Bug report (template)
+name: Bug report (Markdown template)
 about: 'Report an unexpected problem or behavior'
 title: ''
 labels: 'P: default'

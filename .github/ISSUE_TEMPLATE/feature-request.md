@@ -1,5 +1,5 @@
 ---
-name: Feature request (template)
+name: Feature request (Markdown template)
 about: 'A request, idea, or new functionality'
 title: ''
 labels: 'P: default'
