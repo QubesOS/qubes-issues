@@ -21,9 +21,8 @@ You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new/ch
 - [Blocker](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22P%3A+blocker%22)
 - [Critical](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22P%3A+critical%22)
 
-## By release
+## Components status
 
-- [Milestones](https://github.com/QubesOS/qubes-issues/milestones)
 - [Component build status by release (Gitlab-CI)](https://qubesos.gitlab.io/qubes-g2g-report/)
 - [Component build status by release (Travis-CI)](travis_status.md) (obsolete)
 
