@@ -21,7 +21,7 @@ jobs:
             - Questions (please see [Help, support, mailing lists, and forum](https://www.qubes-os.org/support/))
             - Discussion issues (please see [Help, support, mailing lists, and forum](https://www.qubes-os.org/support/))
             - Bug reports for behavior that is already working as intended
-            - Enhancement requests to improve things that are already working as intended
+            - Feature requests to add features that already exist
             - Issues that rest on mistaken assumptions or misunderstandings
             - Issues that do not provide enough information
             - Issues that are not actionable
