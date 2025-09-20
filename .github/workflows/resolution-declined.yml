@@ -15,10 +15,10 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            This issue has been closed as "declined." This means that the issue describes a legitimate bug (in the case of bug reports) or proposal (in the case of enhancements and tasks), and it is actionable, at least in principle. Nonetheless, it has been decided that no action will be taken on this issue. Here are some examples of reasons why an issue may be declined:
+            This issue has been closed as "declined." This means that while the issue is actionable (at least in theory), it has been decided that no action will be taken on this issue. Here are some examples of reasons why an issue may be declined:
 
             - No solution can be found.
-            - The proposed action is not possible.
+            - The proposed action would not be practical.
             - The proposed action would weaken security to an unacceptable degree.
             - The proposed action would be too costly (in time, money, or other resources) relative to the benefits it would provide.
             - The proposed action would make some things better while making other things worse, and the trade-off is not worthwhile.
