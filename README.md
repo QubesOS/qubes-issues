@@ -2,10 +2,10 @@
 
 This repository tracks issues and feature development progress for the [Qubes OS Project](https://www.qubes-os.org/). Please take a moment to read the following important information:
 
-- [Issue tracking](https://www.qubes-os.org/doc/issue-tracking/)
-- [Contributing](https://www.qubes-os.org/doc/contributing/)
-- [Help, support, mailing lists, and forum](https://www.qubes-os.org/support/)
-- [Code of conduct](https://www.qubes-os.org/code-of-conduct/)
+- [Issue tracking](https://doc.qubes-os.org/en/latest/introduction/issue-tracking.html)
+- [Contributing](https://doc.qubes-os.org/en/latest/introduction/contributing.html)
+- [Help, support, mailing lists, and forum](https://doc.qubes-os.org/en/latest/introduction/support.html)
+- [Code of conduct](https://doc.qubes-os.org/en/latest/introduction/code-of-conduct.html)
 - [Terms of use](https://www.qubes-os.org/terms/)
 
 You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new/choose) or [view all issues](https://github.com/QubesOS/qubes-issues/issues).
@@ -28,5 +28,5 @@ You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new/ch
 
 ## GitHub help
 
-- [GitHub search syntax](https://help.github.com/articles/search-syntax/)
-- [GitHub search syntax related to issues](https://help.github.com/articles/searching-issues/)
+- [GitHub Docs: Searching issues and pull requests](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
+- [GitHub Docs: Understanding the search syntax](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax)
