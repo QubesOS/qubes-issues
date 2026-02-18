@@ -15,7 +15,7 @@ body:
       options:
         - Qubes OS 4.2
         - Qubes OS 4.3
-      default: 0
+      default: 1
       multiple: true
   - type: textarea
     id: summary
