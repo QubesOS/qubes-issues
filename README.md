@@ -15,11 +15,16 @@ You can [file a new issue](https://github.com/QubesOS/qubes-issues/issues/new/ch
 - [Good first issue](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 - [Help wanted](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 - [Community-developed](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22community+dev%22)
+- [Bounty issues](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3Abounty)
 
 ## High-priority issues
 
 - [Blocker](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22P%3A+blocker%22)
 - [Critical](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22P%3A+critical%22)
+
+## Bounty Program
+
+Qubes OS offers bounties for certain issues to incentivize community contributions. See our [bounty program documentation](docs/bounty-program.md) for details on how to participate.
 
 ## Components status
 
