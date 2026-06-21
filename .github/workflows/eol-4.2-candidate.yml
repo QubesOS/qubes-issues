@@ -1,0 +1,18 @@
+name: Apply the label to add a comment to Qubes 4.2 issues that are candidates for closure
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'eol-4.2-candidate'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            The labels on this issue currently indicate that it affects only Qubes OS 4.2 or earlier. Since [Qubes OS 4.2 has reached end of life (EOL)](https://www.qubes-os.org/news/2026/06/21/qubes-os-4-2-has-reached-end-of-life/), this issue may eventually be closed. If anyone believes that this issue should remain open, please leave a comment saying so. For example, if an issue still affects Qubes OS 4.3, then the comment "Affects 4.3" will suffice.
